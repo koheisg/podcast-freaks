@@ -1,0 +1,83 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">    <channel>
+                    <title>hbSAKABA</title>
+                <description>hbSAKABAは、株式会社 ハートビーツのメンバーが社内/社外のゲストを囲んで技術ネタを肴にワイワイするPodcastです。</description>
+        <link>https://heartbeats.jp/hbsakaba/</link>
+        <atom:link href="https://heartbeats.jp/hbsakaba/rss" rel="self" type="application/rss+xml"/>
+        <image>
+            <url>https://heartbeats.jp/hbsakaba/images/logo.jpg</url>
+                            <title>hbSAKABA</title>
+                        <link>https://heartbeats.jp/hbsakaba/</link>
+        </image>
+                    <itunes:author>HEARTBEATS</itunes:author>
+                <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://heartbeats.jp/hbsakaba/images/logo.jpg"/>
+        <itunes:keywords>
+            tech,engineer,dev/ops,web,programming,development,software,php,python,reactjs,kaz29
+        </itunes:keywords>
+        <itunes:subtitle/>
+        <itunes:summary>hbSAKABAは、株式会社 ハートビーツのメンバーが社内/社外のゲストを囲んで技術ネタを肴にワイワイするPodcastです。</itunes:summary>
+        <itunes:category text="Technology"/>
+        <itunes:owner>
+            <itunes:name>HEARTBEATS</itunes:name>
+            <itunes:email>dev@heartbeats.jp</itunes:email>
+        </itunes:owner>
+        <language>ja</language>
+            <item>
+        <title>#2 人と組織作りと文化作り</title>
+        <description>
+    soudai1025さんと、失敗から学ぶRDBの正しい歩き方、Webサービスを育てるための組織作りと文化作り、ジュニアを採用しない連中はシニアに値しない、恩送りなどについてお話しました。
+</description>
+        <pubDate>Tue, 05 Mar 2019 09:00:00 +0900</pubDate>
+        <link>https://heartbeats.jp/hbsakaba/3</link>
+        <guid isPermaLink="true">https://heartbeats.jp/hbsakaba/3</guid>
+        <itunes:author/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:summary>
+    soudai1025さんと、失敗から学ぶRDBの正しい歩き方、Webサービスを育てるための組織作りと文化作り、ジュニアを採用しない連中はシニアに値しない、恩送りなどについてお話しました。
+</itunes:summary>
+        <itunes:subtitle>
+    soudai1025さんと、失敗から学ぶRDBの正しい歩き方、Webサービスを育てるための組織作りと文化作り、ジュニアを採用しない連中はシニアに値しない、恩送りなどについてお話しました。
+</itunes:subtitle>
+        <itunes:duration>1:12:36</itunes:duration>
+        <enclosure url="https://hbsakaba.blob.core.windows.net/production/2.mp3" type="audio/mpeg" length="48368534"/>
+    </item>
+    <item>
+        <title>#1 エンジニアのスキルと教育</title>
+        <description>
+    netmarkjpさんと、未来のエンジニアのスキル、世界は才能があっても根気のない人間だらけ、ばばさん通信、安請け合いするべき、エンジニア教育難しい、一人アドベントカレンダーなどについてお話しました。
+</description>
+        <pubDate>Fri, 01 Feb 2019 09:00:00 +0900</pubDate>
+        <link>https://heartbeats.jp/hbsakaba/2</link>
+        <guid isPermaLink="true">https://heartbeats.jp/hbsakaba/2</guid>
+        <itunes:author/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:summary>
+    netmarkjpさんと、未来のエンジニアのスキル、世界は才能があっても根気のない人間だらけ、ばばさん通信、安請け合いするべき、エンジニア教育難しい、一人アドベントカレンダーなどについてお話しました。
+</itunes:summary>
+        <itunes:subtitle>
+    netmarkjpさんと、未来のエンジニアのスキル、世界は才能があっても根気のない人間だらけ、ばばさん通信、安請け合いするべき、エンジニア教育難しい、一人アドベントカレンダーなどについてお話しました。
+</itunes:subtitle>
+        <itunes:duration>30:41</itunes:duration>
+        <enclosure url="https://hbsakaba.blob.core.windows.net/production/1.mp3" type="audio/mpeg" length="48368534"/>
+    </item>
+    <item>
+        <title>#0 hbSAKABAについて</title>
+        <description>
+    hbSAKABAについての簡単な紹介をしました。
+</description>
+        <pubDate>Fri, 01 Feb 2019 09:00:00 +0900</pubDate>
+        <link>https://heartbeats.jp/hbsakaba/1</link>
+        <guid isPermaLink="true">https://heartbeats.jp/hbsakaba/1</guid>
+        <itunes:author/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:summary>
+    hbSAKABAについての簡単な紹介をしました。
+</itunes:summary>
+        <itunes:subtitle>
+    hbSAKABAについての簡単な紹介をしました。
+</itunes:subtitle>
+        <itunes:duration>5:07</itunes:duration>
+        <enclosure url="https://hbsakaba.blob.core.windows.net/production/0.mp3" type="audio/mpeg" length="48368534"/>
+    </item>
+    </channel>
+</rss>

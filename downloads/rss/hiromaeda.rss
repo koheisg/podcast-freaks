@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>hiromaeda.com Startup Podcast</title>
+	<atom:link href="https://hiromaeda.com/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>https://hiromaeda.com</link>
+	<description>ベンチャーキャピタリスト</description>
+	<lastBuildDate>Tue, 09 Apr 2019 15:22:23 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=5.1.1</generator>
+<!-- podcast_generator="Blubrry PowerPress/7.2" mode="simple" feedslug="podcast" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary>スタートアップ業界で活躍する起業家やベンチャーキャピタリストをインタビューするシリーズ。&lt;br /&gt;
+起業家が自身と会社の成長に繋がるヒントやアドバイスを配信しています！</itunes:summary>
+	<itunes:author>hiromaeda.com Startup Podcast</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="http://hiromaeda.com/wp-content/uploads/2017/12/hiromaeda.com_podcast_coverart-1-1.png" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>hiromaeda.com Startup Podcast</itunes:name>
+		<itunes:email>heromaeda@gmail.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>heromaeda@gmail.com (hiromaeda.com Startup Podcast)</managingEditor>
+	<itunes:subtitle>起業家のためのポッドキャスト</itunes:subtitle>
+	<image>
+		<title>hiromaeda.com Startup Podcast</title>
+		<url>http://hiromaeda.com/wp-content/uploads/2017/12/hiromaeda.com_podcast_coverart-1-1.png</url>
+		<link>https://hiromaeda.com</link>
+	</image>
+	<itunes:category text="Business">
+		<itunes:category text="Management &amp; Marketing"></itunes:category>
+	</itunes:category>
+	<rawvoice:subscribe feed="https://hiromaeda.com/feed/podcast/" itunes="https://itunes.apple.com/jp/podcast/hiromaeda-com-startup-podcast/id1320815302"></rawvoice:subscribe>
+	<item>
+		<title>ARR100億円のSaaS企業を作る10項目</title>
+		<link>https://hiromaeda.com/2019/03/25/100marryo/</link>
+		<pubDate>Mon, 25 Mar 2019 16:09:16 +0000</pubDate>
+		<guid isPermaLink="false">https://hiromaeda.com/?p=1218</guid>
+		<comments>https://hiromaeda.com/2019/03/25/100marryo/#respond</comments>
+		<wfw:commentRss>https://hiromaeda.com/2019/03/25/100marryo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>先日、支援先のPOLとLIFE PEPPERが主催するイベントで、① 世界最大級のSaaSカンファレンス「SaaStr」について、そして② 過去僕が20社以上のSaaS企業に投資して学んだ事について話をさせてもらう機会があった。 今回のポッドキャストでは、このイベントで話した2つ目の内容の一部を公開しようと思う。 以下はポッドキャストで話をしている内容のサマリーなので、ポッドキャストを聴きながら、または聴いた後に読んでみて欲しい。 その１：まずは、カスタマーサクセス SaaSに必要なのは、とにかくまずは「カスタマー・サクセス」だと思う。 このステップを後回しにしたりスキップしてしまうと、後で痛い目をみる。 カスタマーサクセスをきちんとやれば、クライアントの満足度が上がり、リファレンスを出してくれる。良いリファレンスが多ければ、新規クライアントの獲得ハードルも下がる。 退会率が、年間10％なのと1％なのでは経営の難しさが全然違う。 最初は小さく感じるかもしれないけれど、売上の数字が大きくなればなるほど退会率の痛みも大きくなる。 目標にすべき更新率の目安は、年間契約の場合で更新率が90％以上であること。 月契約の場合は、チャーンレート1％未満で運用すべき。 その２：採用計画を達成しなければ、売上計画を達成することなど不可能 売上を伸ばすためには、人が必要だ。 売上を1億円伸ばすために必要なカスタマーサクセス人員は1〜2名を目安にすると良い。 また、営業一人あたりが新規で獲得する1年間のARRは5,000万円。ということは、ARR5億円を達成するには、10人の営業担当者が必要になる。 一人あたりが取れるARRを考慮しつつ、会社の目標を達成するために、何人の人員必要なのかを常に考えなくてはいけない。 もう一つ忘れてはいけないのは、新しく人が入社した後、その人がフル稼働できるようになるまでに時間がかかるということ。計画を立てる上で、この点も考慮する必要がある。 その３：ポジショニングが超大事 クライアントが「これが自社にとって最適なプロダクトなのだ」と一瞬で分かるような売り方をするべきだ。 展開するプロダクトはハイエンドなのか、またはローエンドなのか。 例えば人事労務や建築など、どこの部署または分野に特化するプロダクトなのか。これらをはっきりとしてポジショニングすることが重要。 もし、クライアントに対するアピールポイントが機能比較になってしまった場合、それは既にポジショニングに失敗しているということだ。 プロダクト導入を検討する時に「○○なら▲▲社のプロダクトだ（「人事労務ならSmartHR」のように）」と瞬時に自分たちのプロダクトを相手に思い浮かべさせること。そして、導入検討に使う時間など必要無いほど素早く、相手が導入を決断できるような、《決定的なブランド力と実績》を持つことが大切だ。 狙ったポジショニングは、独占できたほうが良い。勝率9割以上にするべき。 営業とマーケティングの戦略は、とにかく顧客目線で。 導入するプロダクトをクライアントが選ぶ時どのようなことを気にしているのか、どのような判断基準があるのかをリストにしてみる。その結果、自分たちのプロダクトが第一候補になれているのかを常にウォッチすること。 実は、負けても良い商談もある。そもそも狙ってないポジショニングで負けたのであれば、それは無視しても良い。しかし、自分たちの強みとしているポジショニングで負けた場合は、かなりシビアに見たほうが良い。 負けてもいい商談、絶対に勝たないといけない商談を明確にすべきだ。 その４：価格、価格、価格 「最適な価格」は常に変化する。あのSalesforceでも、7回ほど値段が変わっている。 プロダクトは常に進化しているのだから、クライアントにとってのメリットが増えれば、価格が上がるのは当然の動き。また、カスタマーサクセスのコストが上がった場合も、価格を上げるタイミングに繋がる。 価格によって、プロダクトの見え方が変わる。 価格は、ハイエンドなのかローエンドなのかを表現するための一つの方法だ。 価値、価格の両方の面で何一つ懸念されずにプロダクトが売れ続ける時は、値上げを検討するべきタイミングだ。プロダクトは、少しの文句を言われながら導入されるのがちょうど良い。 ありがちなのは、最初の価格設定を安くしすぎるケース。とりあえず、次のクライアントには、その2倍の価格で提案してみると良い。過去、初期の価格設定を3万円にしていたプロダクトが、30万円にまで値上げを成功させたことがある。自分たちが考えるプロダクトの価値とクライアントが考える価値は異なる。自分たちの目線より、クライアント目線で探るべき。 その５：売上継続率100%以上でないとユニコーンにはなれない アメリカの上場SaaS企業49社の平均売上継続率は約120%。 少なくとも売上継続率が100%以上でないと、時価総額1,000億円の企業にはなれないと思う。 現実に売上継続率180％の企業も存在し、その企業は既存クライアントだけで翌年の売上が80％増になる。売上継続率が高いということは、顧客満足度が高くなり、顧客が定着する。 ということは、新規に必ず獲得しなくてはいけないクライアント数が減ってストレスが減り、企業経営自体が楽になる。 クライアントが成功すればするほど、価格を上げられる料金体系にすることが重要。 とにかく意識すべきは、クライアントの成功の単位。人事はヒト単位、営業は顧客単位、デベロッパーはAPIコール単位、アカウンティングは金額単位など。どのような単位で物事を考えているのかを念頭におく。 その６：プレイブック無しでは、スケールできない SaaS企業は、多くの人を入社させて、戦力化させていく必要がある。 すべての部隊に、それぞれのプレイブックが必要。 営業チームなら、営業時のスクリプトや、商談のスタイル、戦略など。 カスタマーサクセスチームなら、顧客の成功の定義など。 マニュアルやプレイブックを持つことが超重要だ。 初期段階は属人的でも問題ないが、部隊が100人以上になったときに属人性のある体制は負債になる。 そして、ARR10億円を超えると、プレイブックがないと企業全体が成り立たなくなると言っても過言ではない。 その７：CS、セールス、マーケ仲良くせなあかん 本当に成功しているSaaSは企業は、部署間の連携能力が高い。 […]</description>
+		<content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="https://hiromaeda.com/wp-content/uploads/2019/03/DSC5314-1024x538.jpg" alt="" class="wp-image-1219" srcset="https://hiromaeda.com/wp-content/uploads/2019/03/DSC5314-1024x538.jpg 1024w, https://hiromaeda.com/wp-content/uploads/2019/03/DSC5314-300x158.jpg 300w, https://hiromaeda.com/wp-content/uploads/2019/03/DSC5314-768x404.jpg 768w, https://hiromaeda.com/wp-content/uploads/2019/03/DSC5314.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>先日、支援先の<a href="https://pol.co.jp/">POL</a>と<a href="https://lifepepper.co.jp/">LIFE PEPPER</a>が主催するイベントで、① 世界最大級のSaaSカンファレンス「SaaStr」について、そして② 過去僕が20社以上のSaaS企業に投資して学んだ事について話をさせてもらう機会があった。<br></p>
+
+
+
+<p>今回のポッドキャストでは、このイベントで話した2つ目の内容の一部を公開しようと思う。</p>
+
+
+
+
+
+
+<p></p>
+
+
+
+<p>以下はポッドキャストで話をしている内容のサマリーなので、ポッドキャストを聴きながら、または聴いた後に読んでみて欲しい。<br></p>
+
+
+
+<p><strong>その１：まずは、カスタマーサクセス</strong></p>
+
+
+
+<p>SaaSに必要なのは、とにかくまずは「カスタマー・サクセス」だと思う。</p>
+
+
+
+<p>このステップを後回しにしたりスキップしてしまうと、後で痛い目をみる。<br></p>
+
+
+
+<p>カスタマーサクセスをきちんとやれば、クライアントの満足度が上がり、リファレンスを出してくれる。良いリファレンスが多ければ、新規クライアントの獲得ハードルも下がる。<br></p>
+
+
+
+<p>退会率が、年間10％なのと1％なのでは経営の難しさが全然違う。</p>
+
+
+
+<p>最初は小さく感じるかもしれないけれど、売上の数字が大きくなればなるほど退会率の痛みも大きくなる。<br></p>
+
+
+
+<p>目標にすべき更新率の目安は、年間契約の場合で更新率が90％以上であること。</p>
+
+
+
+<p>月契約の場合は、チャーンレート1％未満で運用すべき。<br></p>
+
+
+
+<p><strong>その２：採用計画を達成しなければ、売上計画を達成することなど不可能</strong></p>
+
+
+
+<p>売上を伸ばすためには、人が必要だ。</p>
+
+
+
+<p>売上を1億円伸ばすために必要なカスタマーサクセス人員は1〜2名を目安にすると良い。</p>
+
+
+
+<p>また、営業一人あたりが新規で獲得する1年間のARRは5,000万円。ということは、ARR5億円を達成するには、10人の営業担当者が必要になる。</p>
+
+
+
+<p>一人あたりが取れるARRを考慮しつつ、会社の目標を達成するために、何人の人員必要なのかを常に考えなくてはいけない。<br></p>
+
+
+
+<p>もう一つ忘れてはいけないのは、新しく人が入社した後、その人がフル稼働できるようになるまでに時間がかかるということ。計画を立てる上で、この点も考慮する必要がある。<br></p>
+
+
+
+<p><strong>その３：ポジショニングが超大事</strong></p>
+
+
+
+<p>クライアントが「これが自社にとって最適なプロダクトなのだ」と一瞬で分かるような売り方をするべきだ。<br></p>
+
+
+
+<p>展開するプロダクトはハイエンドなのか、またはローエンドなのか。</p>
+
+
+
+<p>例えば人事労務や建築など、どこの部署または分野に特化するプロダクトなのか。これらをはっきりとしてポジショニングすることが重要。</p>
+
+
+
+<p>もし、クライアントに対するアピールポイントが機能比較になってしまった場合、それは既にポジショニングに失敗しているということだ。<br></p>
+
+
+
+<p>プロダクト導入を検討する時に「○○なら▲▲社のプロダクトだ（「人事労務ならSmartHR」のように）」と瞬時に自分たちのプロダクトを相手に思い浮かべさせること。そして、導入検討に使う時間など必要無いほど素早く、相手が導入を決断できるような、《決定的なブランド力と実績》を持つことが大切だ。<br></p>
+
+
+
+<p>狙ったポジショニングは、独占できたほうが良い。勝率9割以上にするべき。</p>
+
+
+
+<p>営業とマーケティングの戦略は、とにかく顧客目線で。</p>
+
+
+
+<p>導入するプロダクトをクライアントが選ぶ時どのようなことを気にしているのか、どのような判断基準があるのかをリストにしてみる。その結果、自分たちのプロダクトが第一候補になれているのかを常にウォッチすること。<br></p>
+
+
+
+<p>実は、負けても良い商談もある。そもそも狙ってないポジショニングで負けたのであれば、それは無視しても良い。しかし、自分たちの強みとしているポジショニングで負けた場合は、かなりシビアに見たほうが良い。<br></p>
+
+
+
+<p>負けてもいい商談、絶対に勝たないといけない商談を明確にすべきだ。<br></p>
+
+
+
+<p><strong>その４：価格、価格、価格</strong></p>
+
+
+
+<p>「最適な価格」は常に変化する。あのSalesforceでも、7回ほど値段が変わっている。</p>
+
+
+
+<p>プロダクトは常に進化しているのだから、クライアントにとってのメリットが増えれば、価格が上がるのは当然の動き。また、カスタマーサクセスのコストが上がった場合も、価格を上げるタイミングに繋がる。<br></p>
+
+
+
+<p>価格によって、プロダクトの見え方が変わる。</p>
+
+
+
+<p>価格は、ハイエンドなのかローエンドなのかを表現するための一つの方法だ。<br></p>
+
+
+
+<p>価値、価格の両方の面で何一つ懸念されずにプロダクトが売れ続ける時は、値上げを検討するべきタイミングだ。プロダクトは、少しの文句を言われながら導入されるのがちょうど良い。<br></p>
+
+
+
+<p>ありがちなのは、最初の価格設定を安くしすぎるケース。とりあえず、次のクライアントには、その2倍の価格で提案してみると良い。過去、初期の価格設定を3万円にしていたプロダクトが、30万円にまで値上げを成功させたことがある。自分たちが考えるプロダクトの価値とクライアントが考える価値は異なる。自分たちの目線より、クライアント目線で探るべき。<br></p>
+
+
+
+<p><strong>その５：売上継続率100%以上でないとユニコーンにはなれない</strong></p>
+
+
+
+<p>アメリカの上場SaaS企業49社の平均売上継続率は約120%。</p>
+
+
+
+<p>少なくとも売上継続率が100%以上でないと、時価総額1,000億円の企業にはなれないと思う。<br></p>
+
+
+
+<p>現実に売上継続率180％の企業も存在し、その企業は既存クライアントだけで翌年の売上が80％増になる。売上継続率が高いということは、顧客満足度が高くなり、顧客が定着する。</p>
+
+
+
+<p>ということは、新規に必ず獲得しなくてはいけないクライアント数が減ってストレスが減り、企業経営自体が楽になる。<br></p>
+
+
+
+<p>クライアントが成功すればするほど、価格を上げられる料金体系にすることが重要。<br></p>
+
+
+
+<p>とにかく意識すべきは、クライアントの成功の単位。人事はヒト単位、営業は顧客単位、デベロッパーはAPIコール単位、アカウンティングは金額単位など。どのような単位で物事を考えているのかを念頭におく。<br></p>
+
+
+
+<p><strong>その６：プレイブック無しでは、スケールできない</strong></p>
+
+
+
+<p>SaaS企業は、多くの人を入社させて、戦力化させていく必要がある。<br></p>
+
+
+
+<p>すべての部隊に、それぞれのプレイブックが必要。</p>
+
+
+
+<p>営業チームなら、営業時のスクリプトや、商談のスタイル、戦略など。</p>
+
+
+
+<p>カスタマーサクセスチームなら、顧客の成功の定義など。</p>
+
+
+
+<p>マニュアルやプレイブックを持つことが超重要だ。<br></p>
+
+
+
+<p>初期段階は属人的でも問題ないが、部隊が100人以上になったときに属人性のある体制は負債になる。</p>
+
+
+
+<p>そして、ARR10億円を超えると、プレイブックがないと企業全体が成り立たなくなると言っても過言ではない。<br></p>
+
+
+
+<p><strong>その７：CS、セールス、マーケ仲良くせなあかん</strong></p>
+
+
+
+<p>本当に成功しているSaaSは企業は、部署間の連携能力が高い。</p>
+
+
+
+<p>例えば、営業チームは顧客が何を考えているのか。どういう機能があればさらに導入してもらえるのかを理解しているはず。この情報は絶対にプロダクトチームにフィードバックするべきだ。<br></p>
+
+
+
+<p>営業チームが現存するプロダクトを販売し続け、プロダクトチームは自分たちの仮説に頼って開発を続けていく状態は、一番避けたい。<br></p>
+
+
+
+<p>また、既存クライアントが何に困り、何を求めているのか。どうしたらよりハッピーなシチュエーションを作り出せるのかは、カスタマーサクセスチームが一番理解しているはず。この情報もプロダクトチームにフィードバックすることで、今後のプロダクトがよりクライアント目線のものになる。<br></p>
+
+
+
+<p><strong>その８：セールスフォースを使い倒せ</strong></p>
+
+
+
+<p>どこかで、事業の成長スピードが遅くなったり、いつもより高いチャーンレートになったりする場面に出くわす。そんなとき重要なのは、どれだけ早くその原因を突き止めることができるかだ。<br></p>
+
+
+
+<p>リードからのコンバージョン率、成約してからの継続率などのKPI管理、各クライアントのライフサイクル、その他全ての情報をしっかり管理して、いつでも見返して分析できるようにしておくこと。<br></p>
+
+
+
+<p>これらの情報が整理できていないと、いざ営業効率を上げる必要が出てきた際に、どこから何を始めるべきなのかが分からなくなる。<br></p>
+
+
+
+<p><strong>その９：SaaSは人めっちゃいる</strong></p>
+
+
+
+<p>Boxは、ARR700億円突破のタイミングで従業員1600人、SendGridは、ARR100億円突破の時に従業員300人が在籍していた。なかには、ARR10億円のタイミングで従業員100人を突破しているSaaSスタートアップも存在する。<br></p>
+
+
+
+<p>伝えたいのは、SaaS企業を経営者は、たくさんの人を雇う組織を経営する覚悟が必要だということ。</p>
+
+
+
+<p>SaaS企業に「少数精鋭」は、ない。</p>
+
+
+
+<p>大規模で、人がたくさんいる状態をイメージして経営した方が良い。会社の文化、採用基準、コミュニケーションの取り方、目標設定の仕方など、これら全てを上手くまわしていくことが出来ないと100人、300人が在籍する組織の経営は不可能だ。<br></p>
+
+
+
+<p>少しでも壊れたなと思った時点で、スピーディに対応し修復すること。たとえ、従業員が20〜50人のタイミングでも、それは同じ。一旦放置すれば、修復はどんどん困難になる。覚悟が必要だ。<br></p>
+
+
+
+<p>よく、プロダクトには興味があっても、経営には興味がないという経営者がいるが、経営に興味がなければ、ARR50億円、100億円の会社は創れない。<br></p>
+
+
+
+<p>マネジメントや経営に、関心を持って欲しい。</p>
+
+
+
+<p>人を採用して活かすこと。高いパフォーマンス性を維持できる組織にしなければならない。<br></p>
+
+
+
+<p><strong>その10：SaaSは美しい。なんとかなる。</strong></p>
+
+
+
+<p>SaaSは、矛盾がないビジネスモデルだ。</p>
+
+
+
+<p>クライアントの満足度が高ければ退会率が低くなる。</p>
+
+
+
+<p>退会率が低ければ、その年の売上が来年の売上としても残っていく。</p>
+
+
+
+<p>そういう美しいビジネスモデルだ。きちんとやれば必ず良い会社になっていくはずだ。<br></p>
+
+
+
+<p>そして、他のビジネスモデルと違って、急に売上がゼロになることがない。<br></p>
+
+
+
+<p>そう、なんとかなる。<br></p>
+
+
+
+<p>SaaSは、正しくやれば、正しく成長する。<br></p>
+
+
+
+
+
+
+<p style="text-align:right">Photo and sound edited by&nbsp;<a href="https://twitter.com/kobajenne">kobajenne</a></p>
+
+
+<script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.2 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-648 mc4wp-form-theme mc4wp-form-theme-green" method="post" data-id="648" data-name="Default sign-up form" ><div class="mc4wp-form-fields"><br />
+<h2 style="text-align:center;color:red;font-size:1.5em;">前田ヒロのメルマガは以下で登録できます</h2>
+
+<p>
+    <label>Email Address:</label>
+    <input type="email" name="EMAIL" placeholder="Your email address" required="required">
+</p><p>
+    <input type="submit" value="Subscribe">
+</p>
+<br /></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1555172119" /><input type="hidden" name="_mc4wp_form_id" value="648" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin -->
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/hiromaeda/content.blubrry.com/hiromaeda/Edited-SaaSTalk_Sukeben3.MP3" length="51043404" type="audio/mpeg" />
+		<itunes:subtitle>先日、支援先のPOLとLIFE PEPPERが主催するイベントで、① 世界最大級のSaaSカンファレンス「SaaStr」について、そして② 過去僕が20社以上のSaaS企業に投資して学んだ事について話をさせてもらう機会があった。 今回のポッドキャストでは、このイベントで話した2つ目の内容の一部を公開しようと思う。 以下はポッドキャストで話をしている内容のサマリーなので、ポッドキャストを聴きながら、または聴いた後に読んでみて欲しい。 その１：まずは、カスタマーサクセス SaaSに必要なのは、とにかくま...</itunes:subtitle>
+		<itunes:summary>先日、支援先のPOLとLIFE PEPPERが主催するイベントで、① 世界最大級のSaaSカンファレンス「SaaStr」について、そして② 過去僕が20社以上のSaaS企業に投資して学んだ事について話をさせてもらう機会があった。 今回のポッドキャストでは、このイベントで話した2つ目の内容の一部を公開しようと思う。 以下はポッドキャストで話をしている内容のサマリーなので、ポッドキャストを聴きながら、または聴いた後に読んでみて欲しい。 その１：まずは、カスタマーサクセス SaaSに必要なのは、とにかくまずは「カスタマー・サクセス」だと思う。 このステップを後回しにしたりスキップしてしまうと、後で痛い目をみる。 カスタマーサクセスをきちんとやれば、クライアントの満足度が上がり、リファレンスを出してくれる。良いリファレンスが多ければ、新規クライアントの獲得ハードルも下がる。 退会率が、年間10％なのと1％なのでは経営の難しさが全然違う。 最初は小さく感じるかもしれないけれど、売上の数字が大きくなればなるほど退会率の痛みも大きくなる。 目標にすべき更新率の目安は、年間契約の場合で更新率が90％以上であること。 月契約の場合は、チャーンレート1％未満で運用すべき。 その２：採用計画を達成しなければ、売上計画を達成することなど不可能 売上を伸ばすためには、人が必要だ。 売上を1億円伸ばすために必要なカスタマーサクセス人員は1〜2名を目安にすると良い。 また、営業一人あたりが新規で獲得する1年間のARRは5,000万円。ということは、ARR5億円を達成するには、10人の営業担当者が必要になる。 一人あたりが取れるARRを考慮しつつ、会社の目標を達成するために、何人の人員必要なのかを常に考えなくてはいけない。 もう一つ忘れてはいけないのは、新しく人が入社した後、その人がフル稼働できるようになるまでに時間がかかるということ。計画を立てる上で、この点も考慮する必要がある。 その３：ポジショニングが超大事 クライアントが「これが自社にとって最適なプロダクトなのだ」と一瞬で分かるような売り方をするべきだ。 展開するプロダクトはハイエンドなのか、またはローエンドなのか。 例えば人事労務や建築など、どこの部署または分野に特化するプロダクトなのか。これらをはっきりとしてポジショニングすることが重要。 もし、クライアントに対するアピールポイントが機能比較になってしまった場合、それは既にポジショニングに失敗しているということだ。 プロダクト導入を検討する時に「○○なら▲▲社のプロダクトだ（「人事労務ならSmartHR」のように）」と瞬時に自分たちのプロダクトを相手に思い浮かべさせること。そして、導入検討に使う時間など必要無いほど素早く、相手が導入を決断できるような、《決定的なブランド力と実績》を持つことが大切だ。 狙ったポジショニングは、独占できたほうが良い。勝率9割以上にするべき。 営業とマーケティングの戦略は、とにかく顧客目線で。 導入するプロダクトをクライアントが選ぶ時どのようなことを気にしているのか、どのような判断基準があるのかをリストにしてみる。その結果、自分たちのプロダクトが第一候補になれているのかを常にウォッチすること。 実は、負けても良い商談もある。そもそも狙ってないポジショニングで負けたのであれば、それは無視しても良い。しかし、自分たちの強みとしているポジショニングで負けた場合は、かなりシビアに見たほうが良い。 負けてもいい商談、絶対に勝たないといけない商談を明確にすべきだ。 その４：価格、価格、価格 「最適な価格」は常に変化する。あのSalesforceでも、7回ほど値段が変わっている。 プロダクトは常に進化しているのだから、クライアントにとってのメリットが増えれば、価格が上がるのは当然の動き。また、カスタマーサクセスのコストが上がった場合も、価格を上げるタイミングに繋がる。 価格によって、プロダクトの見え方が変わる。 価格は、ハイエンドなのかローエンドなのかを表現するための一つの方法だ。 価値、価格の両方の面で何一つ懸念されずにプロダクトが売れ続ける時は、値上げを検討するべきタイミングだ。プロダクトは、少しの文句を言われながら導入されるのがちょうど良い。 ありがちなのは、最初の価格設定を安くしすぎるケース。とりあえず、次のクライアントには、その2倍の価格で提案してみると良い。過去、初期の価格設定を3万円にしていたプロダクトが、30万円にまで値上げを成功させたことがある。自分たちが考えるプロダクトの価値とクライアントが考える価値は異なる。自分たちの目線より、クライアント目線で探るべき。 その５：売上継続率100%以上でないとユニコーンにはなれない アメリカの上場SaaS企業49社の平均売上継続率は約120%。 少なくとも売上継続率が100%以上でないと、時価総額1,000億円の企業にはなれないと思う。 現実に売上継続率180％の企業も存在し、その企業は既存クライアントだけで翌年の売上が80％増になる。売上継続率が高いということは、顧客満足度が高くなり、顧客が定着する。 ということは、新規に必ず獲得しなくてはいけないクライアント数が減ってストレスが減り、企業経営自体が楽になる。 クライアントが成功すればするほど、価格を上げられる料金体系にすることが重要。 とにかく意識すべきは、クライアントの成功の単位。人事はヒト単位、営業は顧客単位、デベロッパーはAPIコール単位、アカウンティングは金額単位など。どのような単位で物事を考えているのかを念頭におく。 その６：プレイブック無しでは、スケールできない SaaS企業は、多くの人を入社させて、戦力化させていく必要がある。 すべての部隊に、それぞれのプレイブックが必要。 営業チームなら、営業時のスクリプトや、商談のスタイル、戦略など。 カスタマーサクセスチームなら、顧客の成功の定義など。 マニュアルやプレイブックを持つことが超重要だ。 初期段階は属人的でも問題ないが、部隊が100人以上になったときに属人性のある体制は負債になる。 そして、ARR10億円を超えると、プレイブックがないと企業全体が成り立たなくなると言っても過言ではない。 その７：CS、セールス、マーケ仲良くせなあかん 本当に成功しているSaaSは企業は、部署間の連携能力が高い。 […]</itunes:summary>
+		<itunes:author>hiromaeda.com Startup Podcast</itunes:author>
+		<itunes:image href="http://hiromaeda.com/wp-content/uploads/2017/12/hiromaeda.com_podcast_coverart-1-1.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>35:27</itunes:duration>
+		</item>
+	<item>
+		<title>１on１を語る</title>
+		<link>https://hiromaeda.com/2019/03/11/one-on-one/</link>
+		<pubDate>Mon, 11 Mar 2019 16:21:02 +0000</pubDate>
+		<guid isPermaLink="false">https://hiromaeda.com/?p=1167</guid>
+		<comments>https://hiromaeda.com/2019/03/11/one-on-one/#respond</comments>
+		<wfw:commentRss>https://hiromaeda.com/2019/03/11/one-on-one/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>『1 on 1』の実施は、マネージャーがレバレッジを効かすための機会をつくり、部下にとっては自身をより成長させて自立に繋げられるヒントを得られる機会をつくることができる。今回のポッドキャストエピソードは、スタートアップ向けの人事コンサルを専門にされている金田さんと一緒に『1 on 1』について様々なことを語りました。 【サマリー】 1on1の目的はアウトプット/成果にレバレッジをかけること（単なる悩み相談ではない） 1 on 1のはじめ方 意識すべきこと 頻度と時間の目安は、隔週で30～60分（実施する曜日も時間帯もちゃんと考慮すべき） 1on1の流れ：①仕事の進捗確認→②フィードバックセッション→③目標と評価の確認 心理的安全をつくるためにメンバーがマネージャーへフィードバックする（フィードバックは問題点・改善点を伝えるだけではない、まずは良いことから伝える） KPTフレームワークについて マネージャーはコーチングスキルを高めるべし マネージャーだけではなく、HR/人事も含めた全社員との1on1を実施し、組織課題を潰していく（半年に1回とか） Photo and sound edited by kobajenne</description>
+		<content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="https://hiromaeda.com/wp-content/uploads/2019/03/52766794_399075074256145_227418960704831488_n-1-1024x538.jpg" alt="" class="wp-image-1182" srcset="https://hiromaeda.com/wp-content/uploads/2019/03/52766794_399075074256145_227418960704831488_n-1-1024x538.jpg 1024w, https://hiromaeda.com/wp-content/uploads/2019/03/52766794_399075074256145_227418960704831488_n-1-300x158.jpg 300w, https://hiromaeda.com/wp-content/uploads/2019/03/52766794_399075074256145_227418960704831488_n-1-768x403.jpg 768w, https://hiromaeda.com/wp-content/uploads/2019/03/52766794_399075074256145_227418960704831488_n-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>『1 on 1』の実施は、マネージャーがレバレッジを効かすための機会をつくり、部下にとっては自身をより成長させて自立に繋げられるヒントを得られる機会をつくることができる。今回のポッドキャストエピソードは、スタートアップ向けの<a href="https://kaneda3.com/">人事コンサルを専門にされている金田さん</a>と一緒に『1 on 1』について様々なことを語りました。<br></p>
+
+
+
+<p><strong>【サマリー】</strong></p>
+
+
+
+<ul><li>1on1の目的はアウトプット/成果にレバレッジをかけること（単なる悩み相談ではない） </li><li>1 on 1のはじめ方 </li><li>意識すべきこと </li><li>頻度と時間の目安は、隔週で30～60分（実施する曜日も時間帯もちゃんと考慮すべき）</li><li> 1on1の流れ：①仕事の進捗確認→②フィードバックセッション→③目標と評価の確認 </li><li>心理的安全をつくるためにメンバーがマネージャーへフィードバックする（フィードバックは問題点・改善点を伝えるだけではない、まずは良いことから伝える） </li><li>KPTフレームワークについて </li><li>マネージャーはコーチングスキルを高めるべし </li><li>マネージャーだけではなく、HR/人事も含めた全社員との1on1を実施し、組織課題を潰していく（半年に1回とか）</li></ul>
+
+
+
+
+
+
+<p style="text-align:right">Photo and sound edited by&nbsp;<a href="https://twitter.com/kobajenne">kobajenne</a></p>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/hiromaeda/content.blubrry.com/hiromaeda/10_Kaneda-san_FINAL_.mp3" length="66904036" type="audio/mpeg" />
+		<itunes:subtitle>『1 on 1』の実施は、マネージャーがレバレッジを効かすための機会をつくり、部下にとっては自身をより成長させて自立に繋げられるヒントを得られる機会をつくることができる。今回のポッドキャストエピソードは、スタートアップ向けの人事コンサルを専門にされている金田さんと一緒に『1 on 1』について様々なことを語りました。 【サマリー】 1on1の目的はアウトプット/成果にレバレッジをかけること（単なる悩み相談ではない） 1 on 1のはじめ方 意識すべきこと 頻度と時間の目安は、隔週で30～60分（実施...</itunes:subtitle>
+		<itunes:summary>『1 on 1』の実施は、マネージャーがレバレッジを効かすための機会をつくり、部下にとっては自身をより成長させて自立に繋げられるヒントを得られる機会をつくることができる。今回のポッドキャストエピソードは、スタートアップ向けの人事コンサルを専門にされている金田さんと一緒に『1 on 1』について様々なことを語りました。 【サマリー】 1on1の目的はアウトプット/成果にレバレッジをかけること（単なる悩み相談ではない） 1 on 1のはじめ方 意識すべきこと 頻度と時間の目安は、隔週で30～60分（実施する曜日も時間帯もちゃんと考慮すべき） 1on1の流れ：①仕事の進捗確認→②フィードバックセッション→③目標と評価の確認 心理的安全をつくるためにメンバーがマネージャーへフィードバックする（フィードバックは問題点・改善点を伝えるだけではない、まずは良いことから伝える） KPTフレームワークについて マネージャーはコーチングスキルを高めるべし マネージャーだけではなく、HR/人事も含めた全社員との1on1を実施し、組織課題を潰していく（半年に1回とか） Photo and sound edited by kobajenne</itunes:summary>
+		<itunes:author>hiromaeda.com Startup Podcast</itunes:author>
+		<itunes:image href="http://hiromaeda.com/wp-content/uploads/2017/12/hiromaeda.com_podcast_coverart-1-1.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>46:27</itunes:duration>
+		</item>
+	<item>
+		<title>マーケットプレイスの立ち上げと拡大方法、そしてネットワーク効果の考え方。〜 Fablic 堀井 翔太</title>
+		<link>https://hiromaeda.com/2018/10/21/horii_fablic/</link>
+		<pubDate>Sun, 21 Oct 2018 15:03:51 +0000</pubDate>
+		<guid isPermaLink="false">https://hiromaeda.com/?p=1120</guid>
+		<comments>https://hiromaeda.com/2018/10/21/horii_fablic/#respond</comments>
+		<wfw:commentRss>https://hiromaeda.com/2018/10/21/horii_fablic/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>日本初のフリマアプリ「ラクマ(旧Fril)」を運営する株式会社Fablicを創業し、2016年に楽天株式会社に同社を売却した堀井 翔太氏。フリマアプリの立ち上げ方、ネットワーク効果について、そしてFablicを通して学んできたことについて聞きました。 【ハイライト】 マーケットプレイスの立ち上げと拡大方法 マーケットプレイスのジレンマ ネットワーク効果の考え方について プロダクトがコモディティー化するスピードについて プロダクト・マーケットフィットを達成した後にやるべきこと Photo and sound edited by kobajenne ==================== 起業家向け相談会「Startup Office Hours」開催中！！ 起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。 こんな悩みや疑問を持っている人におすすめです。 資金調達済みの起業家も大歓迎！ アイディアの検証方法が知りたい 事業戦略の “壁打ち” をしたい 正しいKPIの設定方法が知りたい データを活用してKPIを改善したい 資金調達で気をつけるべきポイント、戦略が知りたい チームマネジメントを改善したい ご応募はこちら！ ====================</description>
+		<content:encoded><![CDATA[<p style="text-align: right; font-size: 8px;"><a href="https://hiromaeda.com/wp-content/uploads/2018/10/44375364_2184758121770823_7301556501846425600_n-2-1.jpg"><img class="alignleft wp-image-32 size-full" src="https://hiromaeda.com/wp-content/uploads/2018/10/44375364_2184758121770823_7301556501846425600_n-2-1.jpg" alt="" width="640" height="382" /></a></p>
+<p>日本初のフリマアプリ「ラクマ(旧Fril)」を運営する株式会社Fablicを創業し、2016年に楽天株式会社に同社を売却した堀井 翔太氏。フリマアプリの立ち上げ方、ネットワーク効果について、そしてFablicを通して学んできたことについて聞きました。</p>
+<p>【ハイライト】</p>
+<ul>
+<li>マーケットプレイスの立ち上げと拡大方法</li>
+<li>マーケットプレイスのジレンマ</li>
+<li>ネットワーク効果の考え方について</li>
+<li>プロダクトがコモディティー化するスピードについて</li>
+<li>プロダクト・マーケットフィットを達成した後にやるべきこと</li>
+</ul>
+<p></p>
+<p style="text-align: right;">Photo and sound edited by <a href="https://twitter.com/kobajenne">kobajenne</a></p>
+<p style="text-align: center;">====================<br />
+<strong>起業家向け相談会「Startup Office Hours」開催中！！</strong><br />
+起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。</p>
+<p style="text-align: center;"><strong>こんな悩みや疑問を持っている人におすすめです。</strong><br />
+<strong> 資金調達済みの起業家も大歓迎！</strong></p>
+<p style="text-align: center;">アイディアの検証方法が知りたい<br />
+事業戦略の “壁打ち” をしたい<br />
+正しいKPIの設定方法が知りたい<br />
+データを活用してKPIを改善したい<br />
+資金調達で気をつけるべきポイント、戦略が知りたい<br />
+チームマネジメントを改善したい</p>
+<p style="text-align: center;"><strong><a href="https://hiromaeda.com/office-hours/">ご応募はこちら！<br />
+</a></strong> ====================<br />
+<script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.2 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-2" class="mc4wp-form mc4wp-form-648 mc4wp-form-theme mc4wp-form-theme-green" method="post" data-id="648" data-name="Default sign-up form" ><div class="mc4wp-form-fields"><br />
+<h2 style="text-align:center;color:red;font-size:1.5em;">前田ヒロのメルマガは以下で登録できます</h2>
+
+<p>
+    <label>Email Address:</label>
+    <input type="email" name="EMAIL" placeholder="Your email address" required="required">
+</p><p>
+    <input type="submit" value="Subscribe">
+</p>
+<br /></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1555172119" /><input type="hidden" name="_mc4wp_form_id" value="648" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-2" /><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></p>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/hiromaeda/content.blubrry.com/hiromaeda/09_FINAL_Episode9-fril_mixdown.mp3" length="38374092" type="audio/mpeg" />
+		<itunes:subtitle>日本初のフリマアプリ「ラクマ(旧Fril)」を運営する株式会社Fablicを創業し、2016年に楽天株式会社に同社を売却した堀井 翔太氏。フリマアプリの立ち上げ方、ネットワーク効果について、そしてFablicを通して学んできたことについて聞きました。 【ハイライト】 マーケットプレイスの立ち上げと拡大方法 マーケットプレイスのジレンマ ネットワーク効果の考え方について プロダクトがコモディティー化するスピードについて プロダクト・マーケットフィットを達成した後にやるべきこと Photo and so...</itunes:subtitle>
+		<itunes:summary>日本初のフリマアプリ「ラクマ(旧Fril)」を運営する株式会社Fablicを創業し、2016年に楽天株式会社に同社を売却した堀井 翔太氏。フリマアプリの立ち上げ方、ネットワーク効果について、そしてFablicを通して学んできたことについて聞きました。 【ハイライト】 マーケットプレイスの立ち上げと拡大方法 マーケットプレイスのジレンマ ネットワーク効果の考え方について プロダクトがコモディティー化するスピードについて プロダクト・マーケットフィットを達成した後にやるべきこと Photo and sound edited by kobajenne ==================== 起業家向け相談会「Startup Office Hours」開催中！！ 起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。 こんな悩みや疑問を持っている人におすすめです。 資金調達済みの起業家も大歓迎！ アイディアの検証方法が知りたい 事業戦略の “壁打ち” をしたい 正しいKPIの設定方法が知りたい データを活用してKPIを改善したい 資金調達で気をつけるべきポイント、戦略が知りたい チームマネジメントを改善したい ご応募はこちら！ ====================</itunes:summary>
+		<itunes:author>hiromaeda.com Startup Podcast</itunes:author>
+		<itunes:image href="http://hiromaeda.com/wp-content/uploads/2017/12/hiromaeda.com_podcast_coverart-1-1.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>26:39</itunes:duration>
+		</item>
+	<item>
+		<title>情報を自分ごとにする重要性。妄想と無知さが生み出す戦略。〜 delyの堀江裕介</title>
+		<link>https://hiromaeda.com/2018/07/22/delyhorie/</link>
+		<pubDate>Sun, 22 Jul 2018 21:29:19 +0000</pubDate>
+		<guid isPermaLink="false">https://hiromaeda.com/?p=1101</guid>
+		<comments>https://hiromaeda.com/2018/07/22/delyhorie/#respond</comments>
+		<wfw:commentRss>https://hiromaeda.com/2018/07/22/delyhorie/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description>1200万ダウンロードを超える大ヒット料理動画レシピサービス「クラシル」を運営するdelyの堀江裕介さんにお話を伺いました。先日発表した、Yahoo! JAPANとのパートナーシップで話題になっていますが、今回のインタビューでは、彼の経営フィロソフィーや性格について聞きました。 【ハイライト】 学生起業家の武器。 妄想と無知さが特殊能力 アウトプットをあげるインプットの処理方法 孫さんに気づいてもらった方法 短期的には超シビア。長期的には楽観的。 “ハート to ハート”で人を巻き込む。 人を採用するときは「夢とお金」は欠かせない。 Photo and sound edited by kobajenne ==================== 起業家向け相談会「Startup Office Hours」開催中！！ 起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。 こんな悩みや疑問を持っている人におすすめです。 資金調達済みの起業家も大歓迎！ アイディアの検証方法が知りたい 事業戦略の “壁打ち” をしたい 正しいKPIの設定方法が知りたい データを活用してKPIを改善したい 資金調達で気をつけるべきポイント、戦略が知りたい チームマネジメントを改善したい ご応募はこちら！ ====================</description>
+		<content:encoded><![CDATA[<p style="text-align: right; font-size: 8px;"><a href="https://hiromaeda.com/wp-content/uploads/2018/07/facebook_image-1.png"><img class="alignleft wp-image-32 size-full" src="https://hiromaeda.com/wp-content/uploads/2018/07/facebook_image-1.png" alt="" width="640" height="382" /></a></p>
+<p>1200万ダウンロードを超える大ヒット料理動画レシピサービス「クラシル」を運営するdelyの堀江裕介さんにお話を伺いました。先日発表した、Yahoo! JAPANとのパートナーシップで話題になっていますが、今回のインタビューでは、彼の経営フィロソフィーや性格について聞きました。</p>
+<p>【ハイライト】</p>
+<ul>
+<li>学生起業家の武器。</li>
+<li>妄想と無知さが特殊能力</li>
+<li>アウトプットをあげるインプットの処理方法</li>
+<li>孫さんに気づいてもらった方法</li>
+<li>短期的には超シビア。長期的には楽観的。</li>
+<li>“ハート to ハート”で人を巻き込む。</li>
+<li>人を採用するときは「夢とお金」は欠かせない。</li>
+</ul>
+<p></p>
+<p style="text-align: right;">Photo and sound edited by <a href="https://twitter.com/kobajenne">kobajenne</a></p>
+<p style="text-align: center;">====================<br />
+<strong>起業家向け相談会「Startup Office Hours」開催中！！</strong><br />
+起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。</p>
+<p style="text-align: center;"><strong>こんな悩みや疑問を持っている人におすすめです。</strong><br />
+<strong> 資金調達済みの起業家も大歓迎！</strong></p>
+<p style="text-align: center;">アイディアの検証方法が知りたい<br />
+事業戦略の “壁打ち” をしたい<br />
+正しいKPIの設定方法が知りたい<br />
+データを活用してKPIを改善したい<br />
+資金調達で気をつけるべきポイント、戦略が知りたい<br />
+チームマネジメントを改善したい</p>
+<p style="text-align: center;"><strong><a href="https://hiromaeda.com/office-hours/">ご応募はこちら！<br />
+</a></strong> ====================<br />
+<script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.2 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-3" class="mc4wp-form mc4wp-form-648 mc4wp-form-theme mc4wp-form-theme-green" method="post" data-id="648" data-name="Default sign-up form" ><div class="mc4wp-form-fields"><br />
+<h2 style="text-align:center;color:red;font-size:1.5em;">前田ヒロのメルマガは以下で登録できます</h2>
+
+<p>
+    <label>Email Address:</label>
+    <input type="email" name="EMAIL" placeholder="Your email address" required="required">
+</p><p>
+    <input type="submit" value="Subscribe">
+</p>
+<br /></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1555172119" /><input type="hidden" name="_mc4wp_form_id" value="648" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-3" /><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></p>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/hiromaeda/content.blubrry.com/hiromaeda/_final_dely_horiesan.mp3" length="42796937" type="audio/mpeg" />
+		<itunes:subtitle>1200万ダウンロードを超える大ヒット料理動画レシピサービス「クラシル」を運営するdelyの堀江裕介さんにお話を伺いました。先日発表した、Yahoo! JAPANとのパートナーシップで話題になっていますが、今回のインタビューでは、彼の経営フィロソフィーや性格について聞きました。 【ハイライト】 学生起業家の武器。 妄想と無知さが特殊能力 アウトプットをあげるインプットの処理方法 孫さんに気づいてもらった方法 短期的には超シビア。長期的には楽観的。 “ハート to ハート”で人を巻き込む。 人を採用す...</itunes:subtitle>
+		<itunes:summary>1200万ダウンロードを超える大ヒット料理動画レシピサービス「クラシル」を運営するdelyの堀江裕介さんにお話を伺いました。先日発表した、Yahoo! JAPANとのパートナーシップで話題になっていますが、今回のインタビューでは、彼の経営フィロソフィーや性格について聞きました。 【ハイライト】 学生起業家の武器。 妄想と無知さが特殊能力 アウトプットをあげるインプットの処理方法 孫さんに気づいてもらった方法 短期的には超シビア。長期的には楽観的。 “ハート to ハート”で人を巻き込む。 人を採用するときは「夢とお金」は欠かせない。 Photo and sound edited by kobajenne ==================== 起業家向け相談会「Startup Office Hours」開催中！！ 起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。 こんな悩みや疑問を持っている人におすすめです。 資金調達済みの起業家も大歓迎！ アイディアの検証方法が知りたい 事業戦略の “壁打ち” をしたい 正しいKPIの設定方法が知りたい データを活用してKPIを改善したい 資金調達で気をつけるべきポイント、戦略が知りたい チームマネジメントを改善したい ご応募はこちら！ ====================</itunes:summary>
+		<itunes:author>hiromaeda.com Startup Podcast</itunes:author>
+		<itunes:image href="http://hiromaeda.com/wp-content/uploads/2017/12/hiromaeda.com_podcast_coverart-1-1.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:43</itunes:duration>
+		</item>
+	<item>
+		<title>創業者同士の共通認識、2人の相性はなぜ良かったのか。エウレカ創業者、赤坂優氏と西川順氏とのインタビュー</title>
+		<link>https://hiromaeda.com/2018/04/23/eurekaaaa/</link>
+		<pubDate>Mon, 23 Apr 2018 13:09:40 +0000</pubDate>
+		<guid isPermaLink="false">http://hiromaeda.com/?p=1070</guid>
+		<comments>https://hiromaeda.com/2018/04/23/eurekaaaa/#respond</comments>
+		<wfw:commentRss>https://hiromaeda.com/2018/04/23/eurekaaaa/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>大ヒットマッチングアプリ「Pairs」を生み出し、のちにThe Match Groupに買収されたエウレカ社を創業した赤坂さんと西川さんにお話を伺いました。 共同創業者の間で決めた方が良い共通認識、西川さんが組織のナンバー2として意識してきた事、2人のケンカ話などフランクで面白さ満載なエピソードになりました。 【ハイライト】 2人の相性はなぜ良かったのか 共同創業者の選び方 創業者との共通認識の重要性 ケンカした時の対策 ナンバー2として意識してた事 組織が育つために創業者たちが持つべき意識 Photo and sound edited by kobajenne ==================== 起業家向け相談会「Startup Office Hours」開催中！！ 起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。 こんな悩みや疑問を持っている人におすすめです。 資金調達済みの起業家も大歓迎！ アイディアの検証方法が知りたい 事業戦略の “壁打ち” をしたい 正しいKPIの設定方法が知りたい データを活用してKPIを改善したい 資金調達で気をつけるべきポイント、戦略が知りたい チームマネジメントを改善したい ご応募はこちら！ ====================</description>
+		<content:encoded><![CDATA[<p style="text-align: right; font-size: 8px;"><a href="https://hiromaeda.com/wp-content/uploads/2018/04/2SHOT_name.png"><img class="alignleft wp-image-32 size-full" src="https://hiromaeda.com/wp-content/uploads/2018/04/2SHOT_name.png" alt="" width="640" height="382" /></a></p>
+<p>大ヒットマッチングアプリ「Pairs」を生み出し、のちにThe Match Groupに買収されたエウレカ社を創業した赤坂さんと西川さんにお話を伺いました。<br />
+共同創業者の間で決めた方が良い共通認識、西川さんが組織のナンバー2として意識してきた事、2人のケンカ話などフランクで面白さ満載なエピソードになりました。</p>
+<p>【ハイライト】</p>
+<ul>
+<li>2人の相性はなぜ良かったのか</li>
+<li>共同創業者の選び方</li>
+<li>創業者との共通認識の重要性</li>
+<li>ケンカした時の対策</li>
+<li>ナンバー2として意識してた事</li>
+<li>組織が育つために創業者たちが持つべき意識</li>
+</ul>
+<p></p>
+<p style="text-align: right;">Photo and sound edited by <a href="https://twitter.com/kobajenne">kobajenne</a></p>
+<p style="text-align: center;">====================<br />
+<strong>起業家向け相談会「Startup Office Hours」開催中！！</strong><br />
+起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。</p>
+<p style="text-align: center;"><strong>こんな悩みや疑問を持っている人におすすめです。</strong><br />
+<strong> 資金調達済みの起業家も大歓迎！</strong></p>
+<p style="text-align: center;">アイディアの検証方法が知りたい<br />
+事業戦略の “壁打ち” をしたい<br />
+正しいKPIの設定方法が知りたい<br />
+データを活用してKPIを改善したい<br />
+資金調達で気をつけるべきポイント、戦略が知りたい<br />
+チームマネジメントを改善したい</p>
+<p style="text-align: center;"><strong><a href="https://hiromaeda.com/office-hours/">ご応募はこちら！<br />
+</a></strong> ====================<br />
+<script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.2 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-4" class="mc4wp-form mc4wp-form-648 mc4wp-form-theme mc4wp-form-theme-green" method="post" data-id="648" data-name="Default sign-up form" ><div class="mc4wp-form-fields"><br />
+<h2 style="text-align:center;color:red;font-size:1.5em;">前田ヒロのメルマガは以下で登録できます</h2>
+
+<p>
+    <label>Email Address:</label>
+    <input type="email" name="EMAIL" placeholder="Your email address" required="required">
+</p><p>
+    <input type="submit" value="Subscribe">
+</p>
+<br /></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1555172119" /><input type="hidden" name="_mc4wp_form_id" value="648" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-4" /><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></p>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/hiromaeda/content.blubrry.com/hiromaeda/07_FINAL_Episode_7-Eureca.mp3" length="58887277" type="audio/mpeg" />
+		<itunes:subtitle>大ヒットマッチングアプリ「Pairs」を生み出し、のちにThe Match Groupに買収されたエウレカ社を創業した赤坂さんと西川さんにお話を伺いました。 共同創業者の間で決めた方が良い共通認識、西川さんが組織のナンバー2として意識してきた事、2人のケンカ話などフランクで面白さ満載なエピソードになりました。 【ハイライト】 2人の相性はなぜ良かったのか 共同創業者の選び方 創業者との共通認識の重要性 ケンカした時の対策 ナンバー2として意識してた事 組織が育つために創業者たちが持つべき意識 Pho...</itunes:subtitle>
+		<itunes:summary>大ヒットマッチングアプリ「Pairs」を生み出し、のちにThe Match Groupに買収されたエウレカ社を創業した赤坂さんと西川さんにお話を伺いました。 共同創業者の間で決めた方が良い共通認識、西川さんが組織のナンバー2として意識してきた事、2人のケンカ話などフランクで面白さ満載なエピソードになりました。 【ハイライト】 2人の相性はなぜ良かったのか 共同創業者の選び方 創業者との共通認識の重要性 ケンカした時の対策 ナンバー2として意識してた事 組織が育つために創業者たちが持つべき意識 Photo and sound edited by kobajenne ==================== 起業家向け相談会「Startup Office Hours」開催中！！ 起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。 こんな悩みや疑問を持っている人におすすめです。 資金調達済みの起業家も大歓迎！ アイディアの検証方法が知りたい 事業戦略の “壁打ち” をしたい 正しいKPIの設定方法が知りたい データを活用してKPIを改善したい 資金調達で気をつけるべきポイント、戦略が知りたい チームマネジメントを改善したい ご応募はこちら！ ====================</itunes:summary>
+		<itunes:author>hiromaeda.com Startup Podcast</itunes:author>
+		<itunes:image href="http://hiromaeda.com/wp-content/uploads/2017/12/hiromaeda.com_podcast_coverart-1-1.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>40:53</itunes:duration>
+		</item>
+	<item>
+		<title>ハードウェアスタートアップのHard Things。WHILL社 杉江 理社長にインタビュー。</title>
+		<link>https://hiromaeda.com/2018/02/25/hardwarehardthings/</link>
+		<pubDate>Sun, 25 Feb 2018 13:31:32 +0000</pubDate>
+		<guid isPermaLink="false">http://hiromaeda.com/?p=1034</guid>
+		<comments>https://hiromaeda.com/2018/02/25/hardwarehardthings/#respond</comments>
+		<wfw:commentRss>https://hiromaeda.com/2018/02/25/hardwarehardthings/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>累計30億円以上を調達し、シリコンバレーを拠点にパーソナルモビリティーを開発するWHILLの杉江社長と話しました。ハードウェアのコンセプトを考え、製造するまでのプロセス、シリコンバレーに進出してからの様々な経験、そして”超実践的”な英語勉強方法などについて触れました。 【ハイライト】 WHILLの立ち上げ アイディアの検証方法 何を材料にVCを説得したのか 英語の勉強方法 日本人とアメリカ人のマネージメントの違い ==================== 起業家向け相談会「Startup Office Hours」開催中！！ 起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。 こんな悩みや疑問を持っている人におすすめです。 資金調達済みの起業家も大歓迎！ アイディアの検証方法が知りたい 事業戦略の “壁打ち” をしたい 正しいKPIの設定方法が知りたい データを活用してKPIを改善したい 資金調達で気をつけるべきポイント、戦略が知りたい チームマネジメントを改善したい ご応募はこちら！ ====================</description>
+		<content:encoded><![CDATA[<p style="text-align: right; font-size: 8px;"><a href="https://hiromaeda.com/wp-content/uploads/2018/02/Satoshi-Sugie.jpg"><img class="alignleft wp-image-32 size-full" src="https://hiromaeda.com/wp-content/uploads/2018/02/Satoshi-Sugie.jpg" alt="" width="640" height="382" /></a></p>
+<p>累計30億円以上を調達し、シリコンバレーを拠点にパーソナルモビリティーを開発するWHILLの杉江社長と話しました。ハードウェアのコンセプトを考え、製造するまでのプロセス、シリコンバレーに進出してからの様々な経験、そして”超実践的”な英語勉強方法などについて触れました。</p>
+<p>【ハイライト】</p>
+<ul>
+<li>WHILLの立ち上げ</li>
+<li>アイディアの検証方法</li>
+<li>何を材料にVCを説得したのか</li>
+<li>英語の勉強方法</li>
+<li>日本人とアメリカ人のマネージメントの違い</li>
+</ul>
+<p></p>
+<p style="text-align: center;">====================<br />
+<strong>起業家向け相談会「Startup Office Hours」開催中！！</strong><br />
+起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。</p>
+<p style="text-align: center;"><strong>こんな悩みや疑問を持っている人におすすめです。</strong><br />
+<strong> 資金調達済みの起業家も大歓迎！</strong></p>
+<p style="text-align: center;">アイディアの検証方法が知りたい<br />
+事業戦略の “壁打ち” をしたい<br />
+正しいKPIの設定方法が知りたい<br />
+データを活用してKPIを改善したい<br />
+資金調達で気をつけるべきポイント、戦略が知りたい<br />
+チームマネジメントを改善したい</p>
+<p style="text-align: center;"><strong><a href="https://hiromaeda.com/office-hours/">ご応募はこちら！<br />
+</a></strong> ====================<br />
+<script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.2 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-5" class="mc4wp-form mc4wp-form-648 mc4wp-form-theme mc4wp-form-theme-green" method="post" data-id="648" data-name="Default sign-up form" ><div class="mc4wp-form-fields"><br />
+<h2 style="text-align:center;color:red;font-size:1.5em;">前田ヒロのメルマガは以下で登録できます</h2>
+
+<p>
+    <label>Email Address:</label>
+    <input type="email" name="EMAIL" placeholder="Your email address" required="required">
+</p><p>
+    <input type="submit" value="Subscribe">
+</p>
+<br /></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1555172119" /><input type="hidden" name="_mc4wp_form_id" value="648" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-5" /><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></p>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/hiromaeda/content.blubrry.com/hiromaeda/06_revised_Episode6-WHILL.mp3" length="25616560" type="audio/mpeg" />
+		<itunes:subtitle>累計30億円以上を調達し、シリコンバレーを拠点にパーソナルモビリティーを開発するWHILLの杉江社長と話しました。ハードウェアのコンセプトを考え、製造するまでのプロセス、シリコンバレーに進出してからの様々な経験、そして”超実践的”な英語勉強方法などについて触れました。 【ハイライト】 WHILLの立ち上げ アイディアの検証方法 何を材料にVCを説得したのか 英語の勉強方法 日本人とアメリカ人のマネージメントの違い ==================== 起業家向け相談会「Startup Offic...</itunes:subtitle>
+		<itunes:summary>累計30億円以上を調達し、シリコンバレーを拠点にパーソナルモビリティーを開発するWHILLの杉江社長と話しました。ハードウェアのコンセプトを考え、製造するまでのプロセス、シリコンバレーに進出してからの様々な経験、そして”超実践的”な英語勉強方法などについて触れました。 【ハイライト】 WHILLの立ち上げ アイディアの検証方法 何を材料にVCを説得したのか 英語の勉強方法 日本人とアメリカ人のマネージメントの違い ==================== 起業家向け相談会「Startup Office Hours」開催中！！ 起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。 こんな悩みや疑問を持っている人におすすめです。 資金調達済みの起業家も大歓迎！ アイディアの検証方法が知りたい 事業戦略の “壁打ち” をしたい 正しいKPIの設定方法が知りたい データを活用してKPIを改善したい 資金調達で気をつけるべきポイント、戦略が知りたい チームマネジメントを改善したい ご応募はこちら！ ====================</itunes:summary>
+		<itunes:author>hiromaeda.com Startup Podcast</itunes:author>
+		<itunes:image href="http://hiromaeda.com/wp-content/uploads/2017/12/hiromaeda.com_podcast_coverart-1-1.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>17:47</itunes:duration>
+		</item>
+	<item>
+		<title>1勝9敗のマネージメント法と意思決定のフレームワーク。クラウドワークス社の吉田浩一郎社長にインタビュー</title>
+		<link>https://hiromaeda.com/2018/01/28/lose9win1/</link>
+		<pubDate>Sun, 28 Jan 2018 13:21:14 +0000</pubDate>
+		<guid isPermaLink="false">http://hiromaeda.com/?p=988</guid>
+		<comments>https://hiromaeda.com/2018/01/28/lose9win1/#respond</comments>
+		<wfw:commentRss>https://hiromaeda.com/2018/01/28/lose9win1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description>ポッドキャストシリーズ 第4段。今回のゲストは、設立3年で上場を果たしたクラウドワークスの吉田社長。 彼が経験した様々な苦労から学び得た超実践的マネージメント手法や上場後に感じた課題とその解決策、そして自分自身の型にハマったライフスタイルとは。 【ハイライト】 成果＝結果＋伝達 苦労から学んだ経営方法 1勝9敗のマネージメント法 「約束」と「バブバブ」の時間を設ける理由 あらゆる物を固定化する重要性 意思決定に必要な「事実と解釈」 ==================== 起業家向け相談会「Startup Office Hours」開催中！！ 起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。 こんな悩みや疑問を持っている人におすすめです。 資金調達済みの起業家も大歓迎！ アイディアの検証方法が知りたい 事業戦略の “壁打ち” をしたい 正しいKPIの設定方法が知りたい データを活用してKPIを改善したい 資金調達で気をつけるべきポイント、戦略が知りたい チームマネジメントを改善したい ご応募はこちら！ ====================</description>
+		<content:encoded><![CDATA[<p style="text-align: right; font-size: 8px;"><a href="https://hiromaeda.com/wp-content/uploads/2018/01/Yoshida-san_Headshot-1.jpg"><img class="alignleft wp-image-32 size-full" src="https://hiromaeda.com/wp-content/uploads/2018/01/Yoshida-san_Headshot-1.jpg" alt="" width="640" height="382" /></a></p>
+<p>ポッドキャストシリーズ 第4段。今回のゲストは、設立3年で上場を果たしたクラウドワークスの吉田社長。<br />
+彼が経験した様々な苦労から学び得た超実践的マネージメント手法や上場後に感じた課題とその解決策、そして自分自身の型にハマったライフスタイルとは。</p>
+<p>【ハイライト】</p>
+<ul>
+<li>成果＝結果＋伝達</li>
+<li>苦労から学んだ経営方法</li>
+<li>1勝9敗のマネージメント法</li>
+<li>「約束」と「バブバブ」の時間を設ける理由</li>
+<li>あらゆる物を固定化する重要性</li>
+<li>意思決定に必要な「事実と解釈」</li>
+</ul>
+<p></p>
+<p style="text-align: center;">====================<br />
+<strong>起業家向け相談会「Startup Office Hours」開催中！！</strong><br />
+起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。</p>
+<p style="text-align: center;"><strong>こんな悩みや疑問を持っている人におすすめです。</strong><br />
+<strong> 資金調達済みの起業家も大歓迎！</strong></p>
+<p style="text-align: center;">アイディアの検証方法が知りたい<br />
+事業戦略の “壁打ち” をしたい<br />
+正しいKPIの設定方法が知りたい<br />
+データを活用してKPIを改善したい<br />
+資金調達で気をつけるべきポイント、戦略が知りたい<br />
+チームマネジメントを改善したい</p>
+<p style="text-align: center;"><strong><a href="https://hiromaeda.com/office-hours/">ご応募はこちら！<br />
+</a></strong> ====================<br />
+<script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.2 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-6" class="mc4wp-form mc4wp-form-648 mc4wp-form-theme mc4wp-form-theme-green" method="post" data-id="648" data-name="Default sign-up form" ><div class="mc4wp-form-fields"><br />
+<h2 style="text-align:center;color:red;font-size:1.5em;">前田ヒロのメルマガは以下で登録できます</h2>
+
+<p>
+    <label>Email Address:</label>
+    <input type="email" name="EMAIL" placeholder="Your email address" required="required">
+</p><p>
+    <input type="submit" value="Subscribe">
+</p>
+<br /></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1555172119" /><input type="hidden" name="_mc4wp_form_id" value="648" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-6" /><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></p>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/hiromaeda/content.blubrry.com/hiromaeda/_FINAL_04_Episode4-Crowdworks.mp3" length="49925408" type="audio/mpeg" />
+		<itunes:subtitle>ポッドキャストシリーズ 第4段。今回のゲストは、設立3年で上場を果たしたクラウドワークスの吉田社長。 彼が経験した様々な苦労から学び得た超実践的マネージメント手法や上場後に感じた課題とその解決策、そして自分自身の型にハマったライフスタイルとは。 【ハイライト】 成果＝結果＋伝達 苦労から学んだ経営方法 1勝9敗のマネージメント法 「約束」と「バブバブ」の時間を設ける理由 あらゆる物を固定化する重要性 意思決定に必要な「事実と解釈」 ==================== 起業家向け相談会「Star...</itunes:subtitle>
+		<itunes:summary>ポッドキャストシリーズ 第4段。今回のゲストは、設立3年で上場を果たしたクラウドワークスの吉田社長。 彼が経験した様々な苦労から学び得た超実践的マネージメント手法や上場後に感じた課題とその解決策、そして自分自身の型にハマったライフスタイルとは。 【ハイライト】 成果＝結果＋伝達 苦労から学んだ経営方法 1勝9敗のマネージメント法 「約束」と「バブバブ」の時間を設ける理由 あらゆる物を固定化する重要性 意思決定に必要な「事実と解釈」 ==================== 起業家向け相談会「Startup Office Hours」開催中！！ 起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。 こんな悩みや疑問を持っている人におすすめです。 資金調達済みの起業家も大歓迎！ アイディアの検証方法が知りたい 事業戦略の “壁打ち” をしたい 正しいKPIの設定方法が知りたい データを活用してKPIを改善したい 資金調達で気をつけるべきポイント、戦略が知りたい チームマネジメントを改善したい ご応募はこちら！ ====================</itunes:summary>
+		<itunes:author>hiromaeda.com Startup Podcast</itunes:author>
+		<itunes:image href="http://hiromaeda.com/wp-content/uploads/2017/12/hiromaeda.com_podcast_coverart-1-1.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>34:40</itunes:duration>
+		</item>
+	<item>
+		<title>2018年のキーワードは「与信」「決済」「思考停止」。BANK社の光本勇介社長とのインタビュー。</title>
+		<link>https://hiromaeda.com/2018/01/14/cashinthebank/</link>
+		<pubDate>Sun, 14 Jan 2018 14:12:39 +0000</pubDate>
+		<guid isPermaLink="false">http://hiromaeda.com/?p=981</guid>
+		<comments>https://hiromaeda.com/2018/01/14/cashinthebank/#respond</comments>
+		<wfw:commentRss>https://hiromaeda.com/2018/01/14/cashinthebank/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>今回のポッドキャストは、2017年、驚異的な速さでサービスの立ち上げから70億円の事業売却まで実現させた「CASH」を運営するBANK社の光本勇介氏をゲストに迎えました。 今回のポッドキャストのハイライトはこちら： Cashのアイディアはどうやって思いついたのか？ スタートトゥデイの前澤社長はどんな人？彼から一番得られた事とは？ 2018年のトレンド。そして「思考停止」な時代について。 ==================== 起業家向け相談会「Startup Office Hours」開催中！！ 起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。 こんな悩みや疑問を持っている人におすすめです。 資金調達済みの起業家も大歓迎！ アイディアの検証方法が知りたい 事業戦略の “壁打ち” をしたい 正しいKPIの設定方法が知りたい データを活用してKPIを改善したい 資金調達で気をつけるべきポイント、戦略が知りたい チームマネジメントを改善したい ご応募はこちら！ ====================</description>
+		<content:encoded><![CDATA[<p style="text-align: right; font-size: 8px;"><a href="https://hiromaeda.com/wp-content/uploads/2018/01/mitsumoto_photo-1.jpg"><img class="alignleft wp-image-32 size-full" src="https://hiromaeda.com/wp-content/uploads/2018/01/mitsumoto_photo-1.jpg" alt="" width="640" height="382" /></a></p>
+<p>今回のポッドキャストは、2017年、驚異的な速さでサービスの立ち上げから70億円の事業売却まで実現させた「CASH」を運営するBANK社の光本勇介氏をゲストに迎えました。</p>
+<p>今回のポッドキャストのハイライトはこちら：</p>
+<ul>
+<li>Cashのアイディアはどうやって思いついたのか？</li>
+<li>スタートトゥデイの前澤社長はどんな人？彼から一番得られた事とは？</li>
+<li>2018年のトレンド。そして「思考停止」な時代について。</li>
+</ul>
+<p></p>
+<p style="text-align: center;">====================<br />
+<strong>起業家向け相談会「Startup Office Hours」開催中！！</strong><br />
+起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。</p>
+<p style="text-align: center;"><strong>こんな悩みや疑問を持っている人におすすめです。</strong><br />
+<strong> 資金調達済みの起業家も大歓迎！</strong></p>
+<p style="text-align: center;">アイディアの検証方法が知りたい<br />
+事業戦略の “壁打ち” をしたい<br />
+正しいKPIの設定方法が知りたい<br />
+データを活用してKPIを改善したい<br />
+資金調達で気をつけるべきポイント、戦略が知りたい<br />
+チームマネジメントを改善したい</p>
+<p style="text-align: center;"><strong><a href="https://hiromaeda.com/office-hours/">ご応募はこちら！<br />
+</a></strong> ====================<br />
+<script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.2 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-7" class="mc4wp-form mc4wp-form-648 mc4wp-form-theme mc4wp-form-theme-green" method="post" data-id="648" data-name="Default sign-up form" ><div class="mc4wp-form-fields"><br />
+<h2 style="text-align:center;color:red;font-size:1.5em;">前田ヒロのメルマガは以下で登録できます</h2>
+
+<p>
+    <label>Email Address:</label>
+    <input type="email" name="EMAIL" placeholder="Your email address" required="required">
+</p><p>
+    <input type="submit" value="Subscribe">
+</p>
+<br /></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1555172119" /><input type="hidden" name="_mc4wp_form_id" value="648" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-7" /><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></p>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/hiromaeda/content.blubrry.com/hiromaeda/03_Episode3-BANK_Inc.mp3" length="37683354" type="audio/mpeg" />
+		<itunes:subtitle>今回のポッドキャストは、2017年、驚異的な速さでサービスの立ち上げから70億円の事業売却まで実現させた「CASH」を運営するBANK社の光本勇介氏をゲストに迎えました。 今回のポッドキャストのハイライトはこちら： Cashのアイディアはどうやって思いついたのか？ スタートトゥデイの前澤社長はどんな人？彼から一番得られた事とは？ 2018年のトレンド。そして「思考停止」な時代について。 ==================== 起業家向け相談会「Startup Office Hours」開催中！！ ...</itunes:subtitle>
+		<itunes:summary>今回のポッドキャストは、2017年、驚異的な速さでサービスの立ち上げから70億円の事業売却まで実現させた「CASH」を運営するBANK社の光本勇介氏をゲストに迎えました。 今回のポッドキャストのハイライトはこちら： Cashのアイディアはどうやって思いついたのか？ スタートトゥデイの前澤社長はどんな人？彼から一番得られた事とは？ 2018年のトレンド。そして「思考停止」な時代について。 ==================== 起業家向け相談会「Startup Office Hours」開催中！！ 起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。 こんな悩みや疑問を持っている人におすすめです。 資金調達済みの起業家も大歓迎！ アイディアの検証方法が知りたい 事業戦略の “壁打ち” をしたい 正しいKPIの設定方法が知りたい データを活用してKPIを改善したい 資金調達で気をつけるべきポイント、戦略が知りたい チームマネジメントを改善したい ご応募はこちら！ ====================</itunes:summary>
+		<itunes:author>hiromaeda.com Startup Podcast</itunes:author>
+		<itunes:image href="http://hiromaeda.com/wp-content/uploads/2017/12/hiromaeda.com_podcast_coverart-1-1.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>26:10</itunes:duration>
+		</item>
+	<item>
+		<title>セールスフォースのセールズフォース</title>
+		<link>https://hiromaeda.com/2017/12/17/salesforce_salesforce/</link>
+		<pubDate>Sun, 17 Dec 2017 05:04:03 +0000</pubDate>
+		<guid isPermaLink="false">http://hiromaeda.com/?p=958</guid>
+		<comments>https://hiromaeda.com/2017/12/17/salesforce_salesforce/#respond</comments>
+		<wfw:commentRss>https://hiromaeda.com/2017/12/17/salesforce_salesforce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description>時価総額約8兆円のセールスフォース・ドットコム。 成長の勢いは止まることを知らず、来期の売り上げ予想は前年比20%増の1.4兆円だという。この「SaaSの王者」の営業部隊の中は一体どうなっているのか？ 日本のセールスフォース・ドットコムでフィールドセールスのチームそして、インサイドセールスチームを引っ張る寺本 裕一さんと鈴木 淳一さんに話を聞きました。 今回は前回に続いて、『SaaS Conference TOKYO 2017』での対談の一部をポッドキャスト配信します。 今回のポッドキャストのハイライトはこちら： Salesforceの営業部隊の構成について 組織の拡大方法とは？ Salesforceの採用プロセスとキャリアパス 営業部隊の教育とオンボーディング KPI設定と営業プロセス ==================== 起業家向け相談会「Startup Office Hours」開催中！！ 起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。 こんな悩みや疑問を持っている人におすすめです。 資金調達済みの起業家も大歓迎！ アイディアの検証方法が知りたい 事業戦略の “壁打ち” をしたい 正しいKPIの設定方法が知りたい データを活用してKPIを改善したい 資金調達で気をつけるべきポイント、戦略が知りたい チームマネジメントを改善したい ご応募はこちら！ ====================</description>
+		<content:encoded><![CDATA[<p style="text-align: right; font-size: 8px;"><a href="https://hiromaeda.com/wp-content/uploads/2017/12/DSC1199-1.jpg"><img class="alignleft wp-image-32 size-full" src="https://hiromaeda.com/wp-content/uploads/2017/12/DSC1199-1.jpg" alt="" width="640" height="382" /></a></p>
+<p>時価総額約8兆円のセールスフォース・ドットコム。<br />
+成長の勢いは止まることを知らず、来期の売り上げ予想は前年比20%増の1.4兆円だという。この「SaaSの王者」の営業部隊の中は一体どうなっているのか？<br />
+日本のセールスフォース・ドットコムでフィールドセールスのチームそして、インサイドセールスチームを引っ張る寺本 裕一さんと鈴木 淳一さんに話を聞きました。</p>
+<p>今回は前回に続いて、『SaaS Conference TOKYO 2017』での対談の一部をポッドキャスト配信します。</p>
+<p>今回のポッドキャストのハイライトはこちら：</p>
+<ul>
+<li>Salesforceの営業部隊の構成について</li>
+<li>組織の拡大方法とは？</li>
+<li>Salesforceの採用プロセスとキャリアパス</li>
+<li>営業部隊の教育とオンボーディング</li>
+<li>KPI設定と営業プロセス</li>
+</ul>
+<p></p>
+<p style="text-align: center;">====================<br />
+<strong>起業家向け相談会「Startup Office Hours」開催中！！</strong><br />
+起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。</p>
+<p style="text-align: center;"><strong>こんな悩みや疑問を持っている人におすすめです。</strong><br />
+<strong> 資金調達済みの起業家も大歓迎！</strong></p>
+<p style="text-align: center;">アイディアの検証方法が知りたい<br />
+事業戦略の “壁打ち” をしたい<br />
+正しいKPIの設定方法が知りたい<br />
+データを活用してKPIを改善したい<br />
+資金調達で気をつけるべきポイント、戦略が知りたい<br />
+チームマネジメントを改善したい</p>
+<p style="text-align: center;"><strong><a href="https://hiromaeda.com/office-hours/">ご応募はこちら！<br />
+</a></strong> ====================<br />
+<script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.2 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-8" class="mc4wp-form mc4wp-form-648 mc4wp-form-theme mc4wp-form-theme-green" method="post" data-id="648" data-name="Default sign-up form" ><div class="mc4wp-form-fields"><br />
+<h2 style="text-align:center;color:red;font-size:1.5em;">前田ヒロのメルマガは以下で登録できます</h2>
+
+<p>
+    <label>Email Address:</label>
+    <input type="email" name="EMAIL" placeholder="Your email address" required="required">
+</p><p>
+    <input type="submit" value="Subscribe">
+</p>
+<br /></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1555172119" /><input type="hidden" name="_mc4wp_form_id" value="648" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-8" /><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></p>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/hiromaeda/content.blubrry.com/hiromaeda/_podacast_SaaS_Conference_TOKYO_2017_Salesforce-Firesidechat.mp3" length="43650086" type="audio/mpeg" />
+		<itunes:subtitle>時価総額約8兆円のセールスフォース・ドットコム。 成長の勢いは止まることを知らず、来期の売り上げ予想は前年比20%増の1.4兆円だという。この「SaaSの王者」の営業部隊の中は一体どうなっているのか？ 日本のセールスフォース・ドットコムでフィールドセールスのチームそして、インサイドセールスチームを引っ張る寺本 裕一さんと鈴木 淳一さんに話を聞きました。 今回は前回に続いて、『SaaS Conference TOKYO 2017』での対談の一部をポッドキャスト配信します。 今回のポッドキャストのハイラ...</itunes:subtitle>
+		<itunes:summary>時価総額約8兆円のセールスフォース・ドットコム。 成長の勢いは止まることを知らず、来期の売り上げ予想は前年比20%増の1.4兆円だという。この「SaaSの王者」の営業部隊の中は一体どうなっているのか？ 日本のセールスフォース・ドットコムでフィールドセールスのチームそして、インサイドセールスチームを引っ張る寺本 裕一さんと鈴木 淳一さんに話を聞きました。 今回は前回に続いて、『SaaS Conference TOKYO 2017』での対談の一部をポッドキャスト配信します。 今回のポッドキャストのハイライトはこちら： Salesforceの営業部隊の構成について 組織の拡大方法とは？ Salesforceの採用プロセスとキャリアパス 営業部隊の教育とオンボーディング KPI設定と営業プロセス ==================== 起業家向け相談会「Startup Office Hours」開催中！！ 起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。 こんな悩みや疑問を持っている人におすすめです。 資金調達済みの起業家も大歓迎！ アイディアの検証方法が知りたい 事業戦略の “壁打ち” をしたい 正しいKPIの設定方法が知りたい データを活用してKPIを改善したい 資金調達で気をつけるべきポイント、戦略が知りたい チームマネジメントを改善したい ご応募はこちら！ ====================</itunes:summary>
+		<itunes:author>hiromaeda.com Startup Podcast</itunes:author>
+		<itunes:image href="http://hiromaeda.com/wp-content/uploads/2017/12/hiromaeda.com_podcast_coverart-1-1.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>30:18</itunes:duration>
+		</item>
+	<item>
+		<title>SmartHRとSaaSのZero to One</title>
+		<link>https://hiromaeda.com/2017/12/04/saaszerotoone/</link>
+		<pubDate>Mon, 04 Dec 2017 10:27:51 +0000</pubDate>
+		<guid isPermaLink="false">http://hiromaeda.com/?p=948</guid>
+		<comments>https://hiromaeda.com/2017/12/04/saaszerotoone/#respond</comments>
+		<wfw:commentRss>https://hiromaeda.com/2017/12/04/saaszerotoone/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Uncategorized]]></category>
+		<description>宮田社長が初期のメンバーと作った「文化」と「マネージメントスタイル」は、SmartHRの急成長に大きく貢献していると思っている。 今回は初のポッドキャストという形で、先日行ったSaaS Conference Tokyo 2017での宮田社長との対談を一部公開することにした。 今回のポッドキャストでは、これらについてディスカッションした： 文化の基盤の作り方 コアバリューを会社に浸透させた方法 SmartHRの採用プロセス なぜ情報をフルオープンにしているか 立ち上げ時の人員構成 もし何かをやり直すとしたら、何を変えるか ==================== 起業家向け相談会「Startup Office Hours」開催中！ 起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。 こんな悩みや疑問を持っている人におすすめです。 資金調達済みの起業家も大歓迎！ アイディアの検証方法が知りたい 事業戦略の “壁打ち” をしたい 正しいKPIの設定方法が知りたい データを活用してKPIを改善したい 資金調達で気をつけるべきポイント、戦略が知りたい チームマネジメントを改善したい ご応募はこちら！ ====================</description>
+		<content:encoded><![CDATA[<p style="text-align: right; font-size: 8px;"><a href="https://hiromaeda.com/wp-content/uploads/2017/12/00IMG_7297-2.jpg"><img class="alignleft wp-image-32 size-full" src="https://hiromaeda.com/wp-content/uploads/2017/12/00IMG_7297-2.jpg" alt="" width="640" height="382" /></a></p>
+<p>宮田社長が初期のメンバーと作った「文化」と「マネージメントスタイル」は、SmartHRの急成長に大きく貢献していると思っている。<br />
+今回は初のポッドキャストという形で、先日行ったSaaS Conference Tokyo 2017での宮田社長との対談を一部公開することにした。</p>
+<p>今回のポッドキャストでは、これらについてディスカッションした：</p>
+<ul>
+<li>文化の基盤の作り方</li>
+<li>コアバリューを会社に浸透させた方法</li>
+<li>SmartHRの採用プロセス</li>
+<li>なぜ情報をフルオープンにしているか</li>
+<li>立ち上げ時の人員構成</li>
+<li>もし何かをやり直すとしたら、何を変えるか</li>
+</ul>
+<p></p>
+<p style="text-align: center;">====================<br />
+<strong>起業家向け相談会「Startup Office Hours」開催中！</strong><br />
+起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。</p>
+<p style="text-align: center;"><strong>こんな悩みや疑問を持っている人におすすめです。</strong><br />
+<strong> 資金調達済みの起業家も大歓迎！</strong></p>
+<p style="text-align: center;">アイディアの検証方法が知りたい<br />
+事業戦略の “壁打ち” をしたい<br />
+正しいKPIの設定方法が知りたい<br />
+データを活用してKPIを改善したい<br />
+資金調達で気をつけるべきポイント、戦略が知りたい<br />
+チームマネジメントを改善したい</p>
+<p style="text-align: center;"><strong><a href="https://hiromaeda.com/office-hours/">ご応募はこちら！<br />
+</a></strong> ====================<br />
+<script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.2 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-9" class="mc4wp-form mc4wp-form-648 mc4wp-form-theme mc4wp-form-theme-green" method="post" data-id="648" data-name="Default sign-up form" ><div class="mc4wp-form-fields"><br />
+<h2 style="text-align:center;color:red;font-size:1.5em;">前田ヒロのメルマガは以下で登録できます</h2>
+
+<p>
+    <label>Email Address:</label>
+    <input type="email" name="EMAIL" placeholder="Your email address" required="required">
+</p><p>
+    <input type="submit" value="Subscribe">
+</p>
+<br /></div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1555172119" /><input type="hidden" name="_mc4wp_form_id" value="648" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-9" /><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --></p>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/hiromaeda/content.blubrry.com/hiromaeda/_podcast_SaaS_Conference_TOKYO_2017_SmartHR-Firesidechat.mp3" length="35852148" type="audio/mpeg" />
+		<itunes:subtitle>宮田社長が初期のメンバーと作った「文化」と「マネージメントスタイル」は、SmartHRの急成長に大きく貢献していると思っている。 今回は初のポッドキャストという形で、先日行ったSaaS Conference Tokyo 2017での宮田社長との対談を一部公開することにした。 今回のポッドキャストでは、これらについてディスカッションした： 文化の基盤の作り方 コアバリューを会社に浸透させた方法 SmartHRの採用プロセス なぜ情報をフルオープンにしているか 立ち上げ時の人員構成 もし何かをやり直すと...</itunes:subtitle>
+		<itunes:summary>宮田社長が初期のメンバーと作った「文化」と「マネージメントスタイル」は、SmartHRの急成長に大きく貢献していると思っている。 今回は初のポッドキャストという形で、先日行ったSaaS Conference Tokyo 2017での宮田社長との対談を一部公開することにした。 今回のポッドキャストでは、これらについてディスカッションした： 文化の基盤の作り方 コアバリューを会社に浸透させた方法 SmartHRの採用プロセス なぜ情報をフルオープンにしているか 立ち上げ時の人員構成 もし何かをやり直すとしたら、何を変えるか ==================== 起業家向け相談会「Startup Office Hours」開催中！ 起業を考えている、または既に起業されている方を対象に、メンタリングセッションを実施しています。 こんな悩みや疑問を持っている人におすすめです。 資金調達済みの起業家も大歓迎！ アイディアの検証方法が知りたい 事業戦略の “壁打ち” をしたい 正しいKPIの設定方法が知りたい データを活用してKPIを改善したい 資金調達で気をつけるべきポイント、戦略が知りたい チームマネジメントを改善したい ご応募はこちら！ ====================</itunes:summary>
+		<itunes:author>hiromaeda.com Startup Podcast</itunes:author>
+		<itunes:image href="http://hiromaeda.com/wp-content/uploads/2017/12/hiromaeda.com_podcast_coverart-1-1.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>24:53</itunes:duration>
+		</item>
+</channel>
+</rss>

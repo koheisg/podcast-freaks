@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[あるきながラジオ]]></title>
+		<description><![CDATA[西小倉宏信が歩きながら話します 
+Cover art photo provided by Andrew Ridley on Unsplash: https://unsplash.com/@aridley88]]></description>
+		<link>https://anchor.fm/nishikokura-hironobu</link>
+		<image>
+			<url>https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg</url>
+			<title>あるきながラジオ</title>
+			<link>https://anchor.fm/nishikokura-hironobu</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Sat, 13 Apr 2019 16:07:32 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/8a1f470/podcast/rss" rel="self" type="application/rss+xml"/>
+		<copyright><![CDATA[あるきながラジオ]]></copyright>
+		<language><![CDATA[en-us]]></language>
+		<itunes:author>あるきながラジオ</itunes:author>
+		<itunes:summary>西小倉宏信が歩きながら話します 
+Cover art photo provided by Andrew Ridley on Unsplash: https://unsplash.com/@aridley88</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>あるきながラジオ</itunes:name>
+			<itunes:email>podcasts10+8a1f470@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Business"/>
+		<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		<item>
+			<title><![CDATA[起業して「ちきゅう」というCRMシステムをバイアウトしたけどまた新しいチャレンジをされている浅井さん]]></title>
+			<description><![CDATA[浅井さん話しやすくて僕の悩み相談もしてもらった感あるw]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/CRM-e3nf1f</link>
+			<guid isPermaLink="false">85fc0315-9f28-160a-efbe-5bc7ad4e943f</guid>
+			<pubDate>Fri, 12 Apr 2019 02:50:44 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2914799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-3-12%2F-------------CRM---------------9a883729d7426.m4a" length="21887020" type="audio/x-m4a"/>
+			<itunes:summary>浅井さん話しやすくて僕の悩み相談もしてもらった感あるw</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1353</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[20歳、筑波大学で学生起業した黒﨑さんに今の経費精算アプリについ聞いてきました]]></title>
+			<description><![CDATA[すごいなー]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/20-e3mqlm</link>
+			<guid isPermaLink="false">5d18afda-1f0c-0558-0082-0356c4dfe61b</guid>
+			<pubDate>Wed, 10 Apr 2019 06:43:40 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2893942/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-3-10%2F20-----------------------------27918a11c7581.m4a" length="15231268" type="audio/x-m4a"/>
+			<itunes:summary>すごいなー</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>941</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[なんと無料で紙の本が出版できてAmazonで販売できるムゲンブックスを提供する佐田さん]]></title>
+			<description><![CDATA[https://mugenbooks.com/ すごい]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/Amazon-e3mq32</link>
+			<guid isPermaLink="false">08cab7b6-f8bd-f302-5be9-8e0aeb5dae09</guid>
+			<pubDate>Wed, 10 Apr 2019 04:48:24 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2893346/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-3-10%2F---------------Amazon----------b9f7d2ffe579c.m4a" length="15394959" type="audio/x-m4a"/>
+			<itunes:summary>https://mugenbooks.com/ すごい</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>951</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[技術書典「お29」来てね& エラスティックリーダーシップいいよ by こんさん]]></title>
+			<description><![CDATA[エラスティックリーダーシップ読んでみる]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/29--by-e3me18</link>
+			<guid isPermaLink="false">3d8b30eb-25e6-4f48-bc6b-0154cf0b27df</guid>
+			<pubDate>Tue, 09 Apr 2019 14:21:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2881000/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-3-9%2F------29-----------------------a4f0678505b82.m4a" length="15739733" type="audio/x-m4a"/>
+			<itunes:summary>エラスティックリーダーシップ読んでみる</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>973</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[認定スクラムマスター合格したんだけどすごい合理的だった話 by 為藤アキラさん]]></title>
+			<description><![CDATA[全ての行為に根拠を持つ]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/by-e3m4q4</link>
+			<guid isPermaLink="false">4a3eaad9-16cc-3bd8-6157-5e6b3cfeea4c</guid>
+			<pubDate>Mon, 08 Apr 2019 11:13:19 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2871556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-8%2F12518457-32000-1-3f031384b2d55.m4a" length="7169785" type="audio/x-m4a"/>
+			<itunes:summary>全ての行為に根拠を持つ</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1053</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1348316/1348316-1554722000464-ede50dd92113f.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[mofmof流アジャイル開発についてはらぱん氏に聞いてみた]]></title>
+			<description><![CDATA[他社さんの話聞くの勉強なる]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/mofmof-e3l82e</link>
+			<guid isPermaLink="false">c2cf0317-74b7-5823-a6ae-13884844a7e7</guid>
+			<pubDate>Fri, 05 Apr 2019 02:33:07 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2842126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-3-5%2Fmofmof------------------------f61666f611ea.m4a" length="15834340" type="audio/x-m4a"/>
+			<itunes:summary>他社さんの話聞くの勉強なる</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>979</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1348316/1348316-1554431573481-d269ec6929e23.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[人口5万人以下の石垣島で生まれ育って、誰かのために情報発信したいと思っている理由 by ゆゆめるさん ( @miruki2141 )]]></title>
+			<description><![CDATA[貴重なおはなし]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/5-by---miruki2141-e3l0aa</link>
+			<guid isPermaLink="false">386f715a-6ed7-e409-84b7-41e95f86058c</guid>
+			<pubDate>Thu, 04 Apr 2019 09:53:11 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2834186/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-3-4%2F--5----------------------------291dc19aff211.m4a" length="17173086" type="audio/x-m4a"/>
+			<itunes:summary>貴重なおはなし</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1061</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1348316/1348316-1554371594914-7e395b3b84e87.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[自己肯定感が低かったあの頃の自分が変われたように、プログラミング教室を通じて成功体験を提供したい by あんず堂のはりまさん（ @HRM_09 ）]]></title>
+			<description><![CDATA[うちの子にもプログラミングさせたい！]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/by--HRM_09-e3klff</link>
+			<guid isPermaLink="false">3d53b672-1281-d6f9-a588-1a9c906fa18e</guid>
+			<pubDate>Wed, 03 Apr 2019 08:17:03 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2823087/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-3-3%2F12304100-32000-1-098526adca481.m4a" length="5825380" type="audio/x-m4a"/>
+			<itunes:summary>うちの子にもプログラミングさせたい！</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>856</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1348316/1348316-1554279415636-f71d3f4631b4b.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[少人数の方が意思決定早いしジェネラリストがいいけど、スペンシャリストになって専門知識あると技術で単価も上がるしいいよねという話]]></title>
+			<description><![CDATA[今日はなべさんに進行を助けられた感ある]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/ep-e3k1vq</link>
+			<guid isPermaLink="false">3449d46c-a614-5e48-4d98-a9d47f62c875</guid>
+			<pubDate>Mon, 01 Apr 2019 11:03:57 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2803130/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-3-1%2F-------------------------------2f80915b5d2a.m4a" length="12488422" type="audio/x-m4a"/>
+			<itunes:summary>今日はなべさんに進行を助けられた感ある</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>772</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1348316/1348316-1554116350989-995aaf6fb326a.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[リモートワークの労務に関して三田さんに色々教えてもらいました、伊織さんと一緒に]]></title>
+			<description><![CDATA[お勉強モードでいつもよりテンション低いw]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/ep-e3k1us</link>
+			<guid isPermaLink="false">caa92d57-d7de-45fb-d5b6-3c5706057618</guid>
+			<pubDate>Mon, 01 Apr 2019 10:52:33 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2803100/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-3-1%2F-------------------------------8cdcc80ffb252.m4a" length="12721605" type="audio/x-m4a"/>
+			<itunes:summary>お勉強モードでいつもよりテンション低いw</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>786</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[【英語】桜を見に、シンガポールから弾丸訪日してきたMichelleと英語で話しました]]></title>
+			<description><![CDATA[東南アジアはSouth East Asia]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/Michelle-e3jj83</link>
+			<guid isPermaLink="false">869c17b7-14f8-2158-4fe7-6b380396512a</guid>
+			<pubDate>Sat, 30 Mar 2019 09:56:51 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2788035/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-30%2F-------------------------Miche-154c627ce1a0e.m4a" length="12584173" type="audio/x-m4a"/>
+			<itunes:summary>東南アジアはSouth East Asia</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>778</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1348316/1348316-1553939735927-fe1beea54c9a2.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[「年収5,000万円で楽しくない仕事するより年収500万円で今の仕事したい」by mofmofはらぱん氏]]></title>
+			<description><![CDATA[30回目！]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/5-000500by-mofmof-e3j8b6</link>
+			<guid isPermaLink="false">85e0c049-c470-93c7-bf34-2804217fcc4e</guid>
+			<pubDate>Fri, 29 Mar 2019 12:09:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2776870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-30%2F---5-000----------------500----f570a59ab7178.m4a" length="16036749" type="audio/x-m4a"/>
+			<itunes:summary>30回目！</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>991</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[「有限実行めっちゃ大事」未経験からプログラミングはじめて法人化した、女性Rubyエンジニアのりりそんさん（ @ririson_jp )]]></title>
+			<description><![CDATA[「話足りない、次回も是非」って言ってもらえたの、嬉しい…！]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/Ruby-ririson_jp-e3j085</link>
+			<guid isPermaLink="false">b5fd55e3-20f2-1b0c-8f5c-3bc9c183d176</guid>
+			<pubDate>Thu, 28 Mar 2019 08:02:48 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2768581/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-28%2F12006836-32000-1-073e36ecaaa67.m4a" length="7072858" type="audio/x-m4a"/>
+			<itunes:summary>「話足りない、次回も是非」って言ってもらえたの、嬉しい…！</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1040</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1348316/1348316-1553760137474-818f92a925809.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Unity+Photonでセカンドライフのようなバーチャル出勤アプリ（Metaria）をなんと１人で開発しているふじさん]]></title>
+			<description><![CDATA[25歳ってすごい]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/UnityPhotonMetaria-e3im0j</link>
+			<guid isPermaLink="false">8a673e2a-7584-67f5-6fdd-9a8e295f5136</guid>
+			<pubDate>Wed, 27 Mar 2019 14:20:56 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2758099/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-27%2F11964604-32000-1-b67f155f4ad83.m4a" length="5940023" type="audio/x-m4a"/>
+			<itunes:summary>25歳ってすごい</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>873</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1348316/1348316-1553696458710-48353b240694e.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[新しい働き方を夫婦で色々実験している「にしだけ（ @nishidalol )」とお話しました☆]]></title>
+			<description><![CDATA[いい夫婦]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/nishidalol-e3ik0n</link>
+			<guid isPermaLink="false">77900084-d8f9-57f0-6e32-ede5a14b1993</guid>
+			<pubDate>Wed, 27 Mar 2019 09:48:50 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2756055/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-27%2F11956594-32000-1-3a4a9d195aff9.m4a" length="5480168" type="audio/x-m4a"/>
+			<itunes:summary>いい夫婦</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>805</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1348316/1348316-1553680130321-abd87c24fe7c6.jpg"/>
+			<itunes:season>27</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[技術顧問ってこんな感じのお仕事です by フリーランスエンジニアのコンユウ氏]]></title>
+			<description><![CDATA[楽しかった！]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/by-e3ia39</link>
+			<guid isPermaLink="false">ff515087-577c-0311-e462-50c74e628129</guid>
+			<pubDate>Tue, 26 Mar 2019 09:51:44 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2745897/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-26%2F------------------by-----------f1d7cbb1dec71.m4a" length="14711110" type="audio/x-m4a"/>
+			<itunes:summary>楽しかった！</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>909</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1348316/1348316-1553593811866-fa5363f28cc75.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[浅草と沖縄で2拠点生活をしながらARテクノスポーツ「HADO」の運営をしているPPP’sのいしやまさん]]></title>
+			<description><![CDATA[HADOやりたい！]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/2ARHADOPPPs-e3htk7</link>
+			<guid isPermaLink="false">3cb202ec-104c-4cc5-023e-28cf50374aa7</guid>
+			<pubDate>Mon, 25 Mar 2019 14:06:19 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2733127/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-25%2F------2---------AR--------HADO-37b83d0bb1144.m4a" length="11916512" type="audio/x-m4a"/>
+			<itunes:summary>HADOやりたい！</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>736</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1348316/1348316-1553522694035-b6065c5e33d66.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[「自分が欲しいから作る」フリーランスエンジニアをしながら個人サービスを作っているあんどさん]]></title>
+			<description><![CDATA[楽しかった！]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/ep-e3hoqs</link>
+			<guid isPermaLink="false">48d60422-5bc5-2e68-3fe0-7de2e01c416d</guid>
+			<pubDate>Sun, 24 Mar 2019 12:14:32 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2728220/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-24%2F11819697-32000-1-a22e4e5fabc95.m4a" length="9840220" type="audio/x-m4a"/>
+			<itunes:summary>楽しかった！</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1446</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1348316/1348316-1553429667064-576f7cbcc269a.jpg"/>
+			<itunes:season>24</itunes:season>
+			<itunes:episode>24</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[「ひとりでゴールする冒険なんてない」継続支援プラットフォーム「ビスケット」を運営するしみこさん]]></title>
+			<description><![CDATA[コミュニティの話とか！]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/ep-e3hnup</link>
+			<guid isPermaLink="false">a22e6fea-abb6-6ab2-e867-99d2f87236e7</guid>
+			<pubDate>Sun, 24 Mar 2019 07:45:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2727321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-24%2F-------------------------------4c7159b5f0de3.m4a" length="14929690" type="audio/x-m4a"/>
+			<itunes:summary>コミュニティの話とか！</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>923</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1348316/1348316-1553413401829-3df6142e3066a.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[リモートワークのメリット、デメリット、最適解。研究していきたい with flucle 三田さん]]></title>
+			<description><![CDATA[https://hrbase.jp/]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/with-flucle-e3hmnp</link>
+			<guid isPermaLink="false">9c3f7de5-2e57-a820-adf6-705d1d098841</guid>
+			<pubDate>Sun, 24 Mar 2019 02:04:29 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2726073/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-24%2F-------------------------------71157738abb58.m4a" length="15042746" type="audio/x-m4a"/>
+			<itunes:summary>https://hrbase.jp/</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>930</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1348316/1348316-1553393045820-ddef4ce7a9b68.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[「全ての人にフリーランスを勧めるわけではないけど、そうする事にした人は支援したい」とオンラインサロンを運営するむちょこさん]]></title>
+			<description><![CDATA[今回からマインドマップ付けてみた]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/ep-e3hifk</link>
+			<guid isPermaLink="false">2b4609b8-e03a-45c9-62d4-32941752372d</guid>
+			<pubDate>Sat, 23 Mar 2019 08:33:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2721716/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-23%2F11766607-32000-1-fc471da7e5e1a.m4a" length="7078672" type="audio/x-m4a"/>
+			<itunes:summary>今回からマインドマップ付けてみた</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1040</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1348316/1348316-1553330332219-c2c4b591d02b1.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[「エンジニアに自由を」から「世界に価値を」に経営理念を変え、プログラミング教室のために弟子募集を始めるスタートアップテクノロジー菊本さん]]></title>
+			<description><![CDATA[プログラミング教室の課題を解決する話など]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/ep-e3ha1m</link>
+			<guid isPermaLink="false">c4986380-a6e4-aa9e-1f64-0134c5c25214</guid>
+			<pubDate>Fri, 22 Mar 2019 13:25:22 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2713078/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-22%2F-------------------------------89f4318f50622.m4a" length="16245576" type="audio/x-m4a"/>
+			<itunes:summary>プログラミング教室の課題を解決する話など</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1004</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[「使う人が作るのが最強よね」という話を伊織さんとしました]]></title>
+			<description><![CDATA[2回目のゲスト出演です！]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/ep-e3gu3c</link>
+			<guid isPermaLink="false">42c0e238-65a0-8000-ec54-2b823a42421d</guid>
+			<pubDate>Thu, 21 Mar 2019 02:04:31 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2700844/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-21%2F-----------------------------4af455e696b82.m4a" length="14222220" type="audio/x-m4a"/>
+			<itunes:summary>2回目のゲスト出演です！</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>879</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[「ためしがき」というフォント試せるサービスや「tabmemo」というメモアプリを1人で作っちゃうnabettuさん]]></title>
+			<description><![CDATA[ためしがきインタビューはこちら https://www.creativevillage.ne.jp/45519]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/tabmemo1nabettu-e3gkc3</link>
+			<guid isPermaLink="false">5861984d-83b2-530e-fee6-54dc4da1cb28</guid>
+			<pubDate>Wed, 20 Mar 2019 01:44:30 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2690883/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-20%2F-----------------------tabmemo-6429af99098e9.m4a" length="11061508" type="audio/x-m4a"/>
+			<itunes:summary>ためしがきインタビューはこちら https://www.creativevillage.ne.jp/45519</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>683</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[アバター出勤できるリモートワークツールの試験利用を募集しているOPSION代表のふかのさん]]></title>
+			<description><![CDATA[リモートワークの課題を解決]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/OPSION-e3gass</link>
+			<guid isPermaLink="false">8ed1a1cc-7f69-9023-a0bc-7849ed161c8c</guid>
+			<pubDate>Tue, 19 Mar 2019 02:41:39 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2681180/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-19%2F-------------------------------12025fb8f2d9c.m4a" length="13795293" type="audio/x-m4a"/>
+			<itunes:summary>リモートワークの課題を解決</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>852</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[「水汲み」という多数の人がやっていた仕事がインフラ化したように、バックオフィスもそうしたい with メリービズ工藤さん]]></title>
+			<description><![CDATA[興味深かったです！]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/with-e3g2sm</link>
+			<guid isPermaLink="false">abdfe26c-0b7d-83e6-212c-bde2d8d44df8</guid>
+			<pubDate>Mon, 18 Mar 2019 09:30:01 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2672982/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-18%2F-------------------------------c68881cce28ae.m4a" length="12631329" type="audio/x-m4a"/>
+			<itunes:summary>興味深かったです！</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>780</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[労務管理、効率悪い部分多すぎだからflucleが変えたい(同志募集)という話 with 三田さん]]></title>
+			<description><![CDATA[15日目！]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/flucle-with-e3fpc3</link>
+			<guid isPermaLink="false">30089c1a-7f19-c2db-d8dd-1bd917f3e358</guid>
+			<pubDate>Sun, 17 Mar 2019 01:41:31 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2663235/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-17%2F-----------------flucle--------19dc16971f2bc.m4a" length="11732132" type="audio/x-m4a"/>
+			<itunes:summary>15日目！</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>725</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[プログラミングに集中してる時でも話しかけてもらえるように笑顔を心がけた話 with zumin]]></title>
+			<description><![CDATA[プログラミングの楽しさとか集中テクとか]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/with-zumin-e3fkvc</link>
+			<guid isPermaLink="false">c187c851-abdf-c594-22a2-b4988e815506</guid>
+			<pubDate>Sat, 16 Mar 2019 08:47:36 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2658732/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-16%2F-------------------------------a933dd80b3bfe.m4a" length="13028057" type="audio/x-m4a"/>
+			<itunes:summary>プログラミングの楽しさとか集中テクとか</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>805</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[【ゲスト回】「メンバーとどこまで共有する？」の話 mofmofはらぱんさん② #13]]></title>
+			<description><![CDATA[話がつきない]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/mofmof-13-e3fbas</link>
+			<guid isPermaLink="false">ced25802-83ab-bf42-4c33-ce76b2d08aea</guid>
+			<pubDate>Fri, 15 Mar 2019 04:44:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2648860/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-15%2F11360373-32000-1-84cda2c8a80f8.m4a" length="5400958" type="audio/x-m4a"/>
+			<itunes:summary>話がつきない</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>793</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[【ゲスト回】大学生活でプログラミングを独学できたzuminさん②]]></title>
+			<description><![CDATA[コミュ力エンジニアと非コミュ力エンジニアの話とか]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/zumin-e3f3jr</link>
+			<guid isPermaLink="false">5300c3cd-9d63-d70c-ff25-0f8f2b847840</guid>
+			<pubDate>Thu, 14 Mar 2019 11:41:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2640955/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-14%2F------------------------zumin--040ea57f4a376.m4a" length="12538771" type="audio/x-m4a"/>
+			<itunes:summary>コミュ力エンジニアと非コミュ力エンジニアの話とか</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>775</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[【ゲスト回】大学生活でプログラミングを独学できたzuminさん①]]></title>
+			<description><![CDATA[明日2回目配信予定！]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/zumin-e3epp9</link>
+			<guid isPermaLink="false">a83fc01d-cfd8-1baf-0144-8be2121ffe0c</guid>
+			<pubDate>Wed, 13 Mar 2019 11:29:54 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2630889/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-14%2F------------------------zumin--261b8ebfe4ae.m4a" length="11544707" type="audio/x-m4a"/>
+			<itunes:summary>明日2回目配信予定！</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>713</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[僕がプログラミングを好きになるまで②]]></title>
+			<description><![CDATA[説明めっちゃムズイ]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/ep-e3egmm</link>
+			<guid isPermaLink="false">3fa12daa-633b-d4b9-e73a-9a4d02fe5596</guid>
+			<pubDate>Tue, 12 Mar 2019 13:32:18 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2621590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-12%2F-------------------3c26e8738415d.m4a" length="8803045" type="audio/x-m4a"/>
+			<itunes:summary>説明めっちゃムズイ</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>544</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[【ゲスト回】弊社のバックオフィスをまるっと対応してくれているパラレルワーカーかつ3児の子育てお母さんしている伊織さん]]></title>
+			<description><![CDATA[いつも本当に助かってます…！]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/3-e3e6dc</link>
+			<guid isPermaLink="false">c92974ae-3976-a9d0-3ecf-7c40ff407c3f</guid>
+			<pubDate>Mon, 11 Mar 2019 12:59:56 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2611052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-11%2F-------------------------------a7b1f596f54e6.m4a" length="12349110" type="audio/x-m4a"/>
+			<itunes:summary>いつも本当に助かってます…！</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>763</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[【ゲスト回】3万円で就業規則を作れちゃうサービスを提供しているflucle三田さんと「ここ数年で修羅場体験させる会社が減ってるよね」みたいな話をしました]]></title>
+			<description><![CDATA[新しい働き方、新しい課題]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/3flucle-e3ds8g</link>
+			<guid isPermaLink="false">1ce5d1ca-d368-e0f4-4a4b-b6896f5dc818</guid>
+			<pubDate>Sun, 10 Mar 2019 01:59:55 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2600656/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-10%2F------3------------------------07a337e10ae57.m4a" length="10682164" type="audio/x-m4a"/>
+			<itunes:summary>新しい働き方、新しい課題</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>660</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[【ゲスト回】滋賀県でReact書いてるplumさん]]></title>
+			<description><![CDATA[のん編集！]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/Reactplum-e3dn5j</link>
+			<guid isPermaLink="false">c1c04c17-e8e5-27b1-c1af-489988cd82b2</guid>
+			<pubDate>Sat, 09 Mar 2019 09:58:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2595443/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-9%2F----------React----plum---43d94e2f845c6.m4a" length="13611053" type="audio/x-m4a"/>
+			<itunes:summary>のん編集！</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>841</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[【ゲスト回】アジャイル開発しているmofmofのはらぱん氏と]]></title>
+			<description><![CDATA[<p>西麻布ながら新橋まで歩いて話してたら40分ぐらいになっちゃった</p>]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/mofmof-e3deca</link>
+			<guid isPermaLink="false">922616c3-99b8-9c4e-0081-a0918def7ba1</guid>
+			<pubDate>Fri, 08 Mar 2019 07:16:24 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2586442/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-8%2F11009766-32000-1-00351a3b14e7a.m4a" length="13995591" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;西麻布ながら新橋まで歩いて話してたら40分ぐらいになっちゃった&lt;/p&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2057</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[僕がプログラミングを好きになるまで①]]></title>
+			<description><![CDATA[突然のインターネット老人会]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/ep-e3d3r9</link>
+			<guid isPermaLink="false">252120ed-3bec-2baf-ed1a-b923acc31ed7</guid>
+			<pubDate>Thu, 07 Mar 2019 14:42:07 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2575657/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-7%2F-------------------a10302296a07d.m4a" length="6458670" type="audio/x-m4a"/>
+			<itunes:summary>突然のインターネット老人会</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>399</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[イソップのぶどう、適材適所]]></title>
+			<description><![CDATA[チームの話]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/ep-e3cs3u</link>
+			<guid isPermaLink="false">028192ab-6e5e-5dd7-1070-4627945f2e0f</guid>
+			<pubDate>Wed, 06 Mar 2019 13:05:30 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2567742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-6%2F--------------e1a4df2b4a192.m4a" length="6193913" type="audio/x-m4a"/>
+			<itunes:summary>チームの話</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>382</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[自分の為にやったことがみんなのためになる仕組み]]></title>
+			<description><![CDATA[はてなブックマークってすごいよねという話をしました]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/ep-e3c99o</link>
+			<guid isPermaLink="false">11d1f97f-7d88-0ccc-34d3-03f9fa006afc</guid>
+			<pubDate>Mon, 04 Mar 2019 20:36:25 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2548472/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-4%2F------------------------6dc58229a7739.m4a" length="7480087" type="audio/x-m4a"/>
+			<itunes:summary>はてなブックマークってすごいよねという話をしました</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>462</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1348316/1348316-1551733318292-a53d4bba9ee9f.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[245cloudのサーバが落ちて、会社の存在意義について考えた話]]></title>
+			<description><![CDATA[めっちゃ雨降ってるけど語りました]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/245cloud-e3buak</link>
+			<guid isPermaLink="false">2160dcae-5511-4b3d-dfab-607db05b2089</guid>
+			<pubDate>Mon, 04 Mar 2019 04:58:06 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2537236/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-4%2F245cloud-----------------------96e1dc1363cf2.m4a" length="4219801" type="audio/x-m4a"/>
+			<itunes:summary>めっちゃ雨降ってるけど語りました</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>260</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/1348316/1348316-1551626705173-2a49a756963f3.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[あるきながラジオ #1]]></title>
+			<description><![CDATA[西小倉宏信が歩きながら話します]]></description>
+			<link>https://anchor.fm/nishikokura-hironobu/episodes/1-e3btun</link>
+			<guid isPermaLink="false">2bc7db0b-df29-d03e-3366-fe5a2f012e46</guid>
+			<pubDate>Sun, 03 Mar 2019 14:34:56 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/8a1f470/podcast/play/2536855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-3%2F----------1-dc127d1f80f0c.m4a" length="3086479" type="audio/x-m4a"/>
+			<itunes:summary>西小倉宏信が歩きながら話します</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>190</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded_episode/1348316/1348316-1551627681967-d5151cf33818a.jpg"/>
+		</item>
+	</channel>
+</rss>

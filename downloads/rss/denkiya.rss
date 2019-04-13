@@ -1,0 +1,712 @@
+
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+
+<channel>
+	<title>電器屋Walker</title>
+	<atom:link href="https://inst-web.com/denkiya_blog/feed" rel="self" type="application/rss+xml" />
+	<link>https://inst-web.com/denkiya_blog</link>
+	<description>家電好き、ガジェット好きなINSTの 「ゆるーい」 Podcasting</description>
+	<lastBuildDate>Sat, 23 Mar 2019 23:55:54 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<!-- podcast_generator="Blubrry PowerPress/7.4" mode="simple" feedslug="feed" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary>「電器屋行く前に！電器屋Walker！！」 PC、カメラ、携帯電話、家電、オーディオなど、電化製品の話題を分かりやすく、電器屋の買い物をもっと楽しく出来るように配信しております。「初めて買うからよく分からない」と不安なお買い物初心者の方へお送りするポッドキャスト番組です。是非お楽しみください！</itunes:summary>
+	<itunes:author>電器屋Walker</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="https://inst-web.com/denkiya_blog/pod_mp3/denkiya-walker.jpg" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>電器屋Walker</itunes:name>
+		<itunes:email>cohizo@inst-web.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>cohizo@inst-web.com (電器屋Walker)</managingEditor>
+	<itunes:subtitle>「電器屋行く前に！電器屋Walker！！」</itunes:subtitle>
+	<image>
+		<title>電器屋Walker</title>
+		<url>https://inst-web.com/denkiya_blog/pod_mp3/denkiya-walker.jpg</url>
+		<link>https://inst-web.com/denkiya_blog</link>
+	</image>
+	<itunes:category text="Technology">
+		<itunes:category text="Gadgets"></itunes:category>
+	</itunes:category>
+	<item>
+		<title>第110回「2018年のまとめと2019年の抱負」</title>
+		<link>https://inst-web.com/denkiya_blog/2019/03/24/1407</link>
+		<pubDate>Sat, 23 Mar 2019 23:49:14 +0000</pubDate>
+		<dc:creator><![CDATA[コヒ蔵]]></dc:creator>
+				<category><![CDATA[Coffee]]></category>
+		<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">https://inst-web.com/denkiya_blog/?p=1407</guid>
+		<description><![CDATA[電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「 #電器屋Walker 」をつけてツ [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。<br />
+Twitterでの番組内容に関する感想はハッシュタグ「 <a href="https://twitter.com/hashtag/電器屋Walker" target="_blank" rel="noopener">#電器屋Walker</a> 」をつけてツイートお願いします。<br />
+電器屋Walker／WoodStreamのデジタル生活 共同リスナーコミュニティ出来ました。<br />
+<a href="https://discord.gg/kxfscjc" target="_blank" rel="noopener">Discord 共同コミュニティーへ</a><br />
+Discordというチャットアプリを利用した、ブラウザ、スマホ、パソコンから、どこからでも気軽に参加出来るコミュニティです。<br />
+運営方針はまだ定まっていませんが、パーソナリティとリスナーが同じ目線で交流できる場所なので、是非ご参加下さい。</p>
+<p>&#8212;&#8212;&#8212;&#8211;</p>
+<p>500円／月で電器屋Walkerの活動をご支援頂けませんか？<br />
+・スリッパちゃん<br />
+・シンゴさん<br />
+・けんさっくすさん<br />
+その他4名、合計7名の方からご支援を頂いております。-2019年03月24日現在</p>
+<p><a href="http://camp-fire.jp/projects/view/85454" rel="noopener" target="_blank">詳細はこちらから</a><br />
+ファンクラブ方式クラウドファンディング「キャンプファイヤー」にて</p>
+<p>3月も終わろうとしているこのタイミングですが、2018年の配信を振り返り、2019年の方針について語ります。（収録日：2019年02月10日）</p>
+<p><span id="more-1407"></span></p>
+<p>&#8212;&#8212;&#8212;&#8211;</p>
+<p># 配信ページ<br />
+[ blog ／ website INST-web ]<br />
+<a href="ttps://inst-web.com/denkiya_blog/2019/03/24/1407" target="_blank" rel="noopener">第110回「2018年のまとめと2019年の抱負」</a></p>
+]]></content:encoded>
+	<enclosure url="http://inst-data.com/denkiya_blog/pod_mp3/denki-20190324-Main110-20182019.mp3" length="32807721" type="audio/mpeg" />
+		<itunes:subtitle>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「 #電器屋Walker 」をつけてツ […]</itunes:subtitle>
+		<itunes:summary>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「 #電器屋Walker 」をつけてツ […]</itunes:summary>
+		<itunes:author>電器屋Walker</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>45:34</itunes:duration>
+	</item>
+		<item>
+		<title>【FaderPort＆Cubase】フィジカルコントローラーFaderPortを徹底解説！</title>
+		<link>https://inst-web.com/denkiya_blog/2019/03/11/1404</link>
+		<pubDate>Mon, 11 Mar 2019 13:12:58 +0000</pubDate>
+		<dc:creator><![CDATA[コヒ蔵]]></dc:creator>
+				<category><![CDATA[Coffee]]></category>
+		<category><![CDATA[INST-Channel]]></category>
+		<category><![CDATA[商品紹介]]></category>
+
+		<guid isPermaLink="false">https://inst-web.com/denkiya_blog/?p=1404</guid>
+		<description><![CDATA[日本では正規販売代理店「MI7」が展開するPreSonusのフィジカルコントローラー「FaderPort」をご紹介します。 コンパクトな筐体にモーターフェーダー（ムービングフェーダー）を搭載したフィジカルコントローラーF [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><iframe width="500" height="281" src="https://www.youtube.com/embed/Owvg_iFz9zQ?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>日本では正規販売代理店「MI7」が展開するPreSonusのフィジカルコントローラー「FaderPort」をご紹介します。</p>
+<p>コンパクトな筐体にモーターフェーダー（ムービングフェーダー）を搭載したフィジカルコントローラーFaderPort。<br />
+2万円台半ばというリーズナブルな価格で、可動域100mmのタッチセンシティブフェーダーを備えたフィジカルコントローラーの入門機的存在です。</p>
+<p>今回はこのFaderPortの1フェーダーモデルをSteinbergのDAW「Cubase9.5」で実際に使用している様子を通して、使い勝手等をご紹介します。</p>
+<p>PreSonusのDAW「Studio One」以外でも使用可能で便利なフィジカルコントローラーをご覧下さい。</p>
+<p>※実際の操作内容は私程度のノウハウなので、あまり参考にならないかも知れませんので、予めご了承ください。</p>
+<p><a href="https://www.mi7.co.jp/products/presonus/faderport/" rel="noopener" target="_blank">FaderPort</a><br />
+<a href="https://www.mi7.co.jp/news/" rel="noopener" target="_blank">MI7公式</a></p>
+<p><span id="more-1404"></span></p>
+<p>Cubase9.5対応FaderPort専用メモリゲージ<br />
+※私が実測して勝手に作ったモノなので、ご理解の上自己責任でご利用ください。<br />
+<a href="http://inst-data.com/denkiya_blog/pod_mp3/FaderPort-ScaleForCubase-20190310.ai" rel="noopener" target="_blank">Adobe illustrator CC2019用</a></p>
+<p><a href="http://inst-data.com/denkiya_blog/pod_mp3/FaderPort-ScaleForCubase-20190310.pdf" rel="noopener" target="_blank">PDF用</a></p>
+<p>※許可無くデータの改変、複製、再配布を行うことは出来ません。<br />
+※シェアして頂く際にはこちらのYoutube動画をシェアして頂くと幸いです。<br />
+※本ダウンロードリンク以外の場所にデータを設置し公開することは出来ません。<br />
+※MI7ジャパン、又はPreSonusの許諾は得ていませんので、使用の中止を警告された場合は速やかに使用を停止し、データを破棄してください。<br />
+※本データを使用することによって生じたいかなる損害も関知しませんのでご了承ください。</p>
+<p>In this Video, I will review Presonus FaderPort, the Physical control surface for DAW with Cubase 9.5.</p>
+<p>Not much unique and useful techniques but you may get some ideas about what is the FaderPort.</p>
+<p>I also share a fader scale picture date for FaderPort. because, the point of unity between Cubase and FaderPort bit different in my situation, so I made the fader scale by myself.</p>
+<p>You can download it from the link above, but please be aware, no change, no redistribution. you can only share the download link above, but not any other way.<br />
+Free to use in both private and commercial use.<br />
+INST-web all rights reserved.</p>
+<p>Please enjoy this video. </p>
+<p>&#8212;<br />
+INSTチャンネルはコーヒー（コヒ蔵）の勝手な思い込みなどを織り交ぜながら家電やガジェットについて楽しくお話しするYoutubeチャンネルです。<br />
+ご不明な点がありましたらコメントください、分かる範囲で対応します！</p>
+<p>Twitterでの番組内容に関する感想はハッシュタグ<br />
+#INSTチャンネル<br />
+をつけてツイートお願いします。<br />
+<a href="https://twitter.com/hashtag/INSTチャンネル" rel="noopener" target="_blank">https://twitter.com/hashtag/INSTチャンネル</a></p>
+<p><a href="https://inst-web.com/denkiya_blog/" rel="noopener" target="_blank">https://inst-web.com/denkiya_blog/</a></p>
+<p>&#8212;</p>
+<p>500円／月で電器屋Walkerの活動をご支援頂けませんか？<br />
+<a href="http://camp-fire.jp/projects/view/85454" rel="noopener" target="_blank">http://camp-fire.jp/projects/view/85454</a><br />
+ファンクラブ方式クラウドファンディング「キャンプファイヤー」にて<br />
+現在　7名の方からご支援を頂いております。<br />
+ご支援本当に有り難うございます。</p>
+<p>面白かったら是非チャンネル登録お願いします！ &#8211; <a href="https://www.youtube.com/c/inst-web/" rel="noopener" target="_blank">https://www.youtube.com/c/inst-web/</a></p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-<br />
+もしこの動画が面白かったらぜひ↓こちらのPodcastもオススメです。<br />
+家電やガジェット、ウェブサービスなどについてゆるくお話ししています。</p>
+<p>[Podcast番組　電器屋Walker]<br />
+https://itunes.apple.com/jp/podcast/d&#8230;</p>
+<p>[Website INST-web]<br />
+https://inst-web.com/</p>
+<p>[コーヒーのツイッター]<br />
+<a class="twitter-timeline" data-width="500" data-height="750" data-dnt="true" href="https://twitter.com/_Coffee__?ref_src=twsrc%5Etfw">Tweets by _Coffee__</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>#047「ゆいまるさんをゲストにおしゃべり」</title>
+		<link>https://inst-web.com/denkiya_blog/2019/03/07/1402</link>
+		<pubDate>Thu, 07 Mar 2019 12:39:40 +0000</pubDate>
+		<dc:creator><![CDATA[コヒ蔵]]></dc:creator>
+				<category><![CDATA[Coffee]]></category>
+		<category><![CDATA[Lite]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[ゆいまるさん]]></category>
+
+		<guid isPermaLink="false">https://inst-web.com/denkiya_blog/?p=1402</guid>
+		<description><![CDATA[電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「 #電器屋Walker 」をつけてツ [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。<br />
+Twitterでの番組内容に関する感想はハッシュタグ「 <a href="https://twitter.com/hashtag/電器屋Walker" target="_blank" rel="noopener">#電器屋Walker</a> 」をつけてツイートお願いします。<br />
+電器屋Walker／WoodStreamのデジタル生活 共同リスナーコミュニティ出来ました。<br />
+<a href="https://discord.gg/kxfscjc" target="_blank" rel="noopener">Discord 共同コミュニティーへ</a><br />
+Discordというチャットアプリを利用した、ブラウザ、スマホ、パソコンから、どこからでも気軽に参加出来るコミュニティです。<br />
+運営方針はまだ定まっていませんが、パーソナリティとリスナーが同じ目線で交流できる場所なので、是非ご参加下さい。</p>
+<p>&#8212;&#8212;&#8212;&#8211;</p>
+<p>きょうは「ゆいまるさん」をゲストにお迎えしてのゲスト回。<br />
+<span id="more-1402"></span></p>
+<p>旅人支援ショップ・快速旅団の幹事長<br />
+「ゆいまるポッドキャスト」や「夜のゆいろく」を配信するポッドキャスター<br />
+ゆいまるさんをゲストにお招きして、たっぷりお話をお伺いしました。<br />
+北海道夕張のお話、快速旅団のお話、音声配信のお話など、<br />
+普段は聞けないゆいまるさんのお話をお楽しみ下さい。<br />
+（収録日：2019年2月10日）</p>
+<p><a href="http://www.kaisoku.org/" target="_blank" rel="noopener">快速旅団ウェブサイト</a><br />
+<a href="http://kanjicho.seesaa.net/" target="_blank" rel="noopener">ブログ「幹事長のいいこと教えちゃう」</a><br />
+<a href="https://itunes.apple.com/jp/podcast//id188868609?mt=2" target="_blank" rel="noopener">ゆいろくポッドキャスト</a><br />
+<a href="https://itunes.apple.com/jp/podcast//id1304846659?mt=2" target="_blank" rel="noopener">夜のゆいろく</a><br />
+<a href="https://twitter.com/yuimaru" target="_blank" rel="noopener">twitter @yuimaruく</a><br />
+<a href="https://www.pscp.tv/kanjicho_yuimaru" target="_blank" rel="noopener">ペリスコープ @kanjicho_yuimaruく</a></p>
+]]></content:encoded>
+	<enclosure url="http://inst-data.com/denkiya_blog/pod_mp3/denki-20190307-Lite047-yuimaru.mp3" length="55357806" type="audio/mpeg" />
+		<itunes:subtitle>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「 #電器屋Walker 」をつけてツ […]</itunes:subtitle>
+		<itunes:summary>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「 #電器屋Walker 」をつけてツ […]</itunes:summary>
+		<itunes:author>電器屋Walker</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:16:53</itunes:duration>
+	</item>
+		<item>
+		<title>カメラ会05「ミラーレスを購入しての感想」</title>
+		<link>https://inst-web.com/denkiya_blog/2019/02/23/1396</link>
+		<pubDate>Sat, 23 Feb 2019 12:18:04 +0000</pubDate>
+		<dc:creator><![CDATA[コヒ蔵]]></dc:creator>
+				<category><![CDATA[Coffee]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[カメラ三人会]]></category>
+		<category><![CDATA[シンゴさん]]></category>
+		<category><![CDATA[木澤さん]]></category>
+
+		<guid isPermaLink="false">https://inst-web.com/denkiya_blog/?p=1396</guid>
+		<description><![CDATA[電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「 #電器屋Walker 」をつけてツ [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。<br />
+Twitterでの番組内容に関する感想はハッシュタグ「 <a href="https://twitter.com/hashtag/電器屋Walker" target="_blank" rel="noopener">#電器屋Walker</a> 」をつけてツイートお願いします。<br />
+電器屋Walker／WoodStreamのデジタル生活 共同リスナーコミュニティ出来ました。<br />
+<a href="https://discord.gg/kxfscjc" target="_blank" rel="noopener">Discord 共同コミュニティーへ</a><br />
+Discordというチャットアプリを利用した、ブラウザ、スマホ、パソコンから、どこからでも気軽に参加出来るコミュニティです。<br />
+運営方針はまだ定まっていませんが、パーソナリティとリスナーが同じ目線で交流できる場所なので、是非ご参加下さい。</p>
+<p>&#8212;&#8212;&#8212;&#8211;</p>
+<p>カメラ好きが集まって雑談する「カメラ 三人会」<br />
+「オールドレンズ沼の水先案内人・謎のカメラ好き シンゴさん」と<br />
+「WoodStreamのデジタル生活でお馴染み、絶賛カメラ練習中の木澤さん」<br />
+そして、中学時代は光画部だったコーヒーの三人でお送りします。<br />
+私たちプロカメラマンでも何でも無いので勝手な思い込みなどを織り交ぜながらの雑談構成です。<br />
+予めご了承の上お楽しみください。<br />
+収録マラソン最終日、カメラ三人会は長時間になった為に3部構成でお送りします。<br />
+第三部の今回は木澤さんとコヒ蔵がマイクロフォーサーズミラーレスへ移行してしばらく経過して、「本音はどうですか？」というお話。<br />
+収録マラソン5日目／5日 7本目／8本（収録日：2018年11月10日）</p>
+<p><span id="more-1396"></span></p>
+<p>500円／月で電器屋Walkerの活動をご支援頂けませんか？<br />
+・スリッパちゃん<br />
+・シンゴさん<br />
+・スタンレーさん<br />
+・けんさっくすさん<br />
+その他5名、合計9名の方からご支援を頂いております。-2018年11月16日現在</p>
+<p><a href="http://camp-fire.jp/projects/view/85454" rel="noopener" target="_blank">詳細はこちらから</a><br />
+ファンクラブ方式クラウドファンディング「キャンプファイヤー」にて</p>
+<p>&#8212;&#8212;&#8212;&#8211;</p>
+<p># 関連リンク<br />
+[ iTunes 電器屋Walker ]<br />
+<a href="https://itunes.apple.com/jp/podcast/id317965056" target="_blank" rel="noopener">https://itunes.apple.com/jp/podcast/id317965056</a></p>
+<p>[ Youtube INSTチャンネル ]<br />
+<a href="https://www.youtube.com/c/inst-web/" target="_blank" rel="noopener">https://www.youtube.com/c/inst-web/</a><br />
+Youtube始めました。ご興味があれば是非「チャンネル登録」をお願いします！　Twitterのハッシュタグは「<a href="https://twitter.com/hashtag/INSTチャンネル" target="_blank" rel="noopener">#INSTチャンネル</a>」<br />
+[ twitter コヒ蔵 ]<br />
+<a href="http://twitter.com/_Coffee__" target="_blank" rel="noopener">@_Coffee__</a><br />
+[ twitter タイジ ]<br />
+<a href="http://twitter.com/_Taiji_" target="_blank" rel="noopener">@_Taiji_</a></p>
+]]></content:encoded>
+	<enclosure url="http://inst-data.com/denkiya_blog/pod_mp3/denki-20190223-SanNin05-remark.mp3" length="30914384" type="audio/mpeg" />
+		<itunes:subtitle>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「 #電器屋Walker 」をつけてツ […]</itunes:subtitle>
+		<itunes:summary>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「 #電器屋Walker 」をつけてツ […]</itunes:summary>
+		<itunes:author>電器屋Walker</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>42:56</itunes:duration>
+	</item>
+		<item>
+		<title>カメラ会04「木澤さん撮影塾」</title>
+		<link>https://inst-web.com/denkiya_blog/2019/01/24/1391</link>
+		<pubDate>Thu, 24 Jan 2019 12:48:17 +0000</pubDate>
+		<dc:creator><![CDATA[コヒ蔵]]></dc:creator>
+				<category><![CDATA[Coffee]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[カメラ三人会]]></category>
+		<category><![CDATA[シンゴさん]]></category>
+		<category><![CDATA[木澤さん]]></category>
+
+		<guid isPermaLink="false">https://inst-web.com/denkiya_blog/?p=1391</guid>
+		<description><![CDATA[電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「 #電器屋Walker 」をつけてツ [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。<br />
+Twitterでの番組内容に関する感想はハッシュタグ「 <a href="https://twitter.com/hashtag/電器屋Walker" target="_blank" rel="noopener">#電器屋Walker</a> 」をつけてツイートお願いします。<br />
+電器屋Walker／WoodStreamのデジタル生活 共同リスナーコミュニティ出来ました。<br />
+<a href="https://discord.gg/kxfscjc" target="_blank" rel="noopener">Discord 共同コミュニティーへ</a><br />
+Discordというチャットアプリを利用した、ブラウザ、スマホ、パソコンから、どこからでも気軽に参加出来るコミュニティです。<br />
+運営方針はまだ定まっていませんが、パーソナリティとリスナーが同じ目線で交流できる場所なので、是非ご参加下さい。</p>
+<p>&#8212;&#8212;&#8212;&#8211;</p>
+<p>カメラ好きが集まって雑談する「カメラ 三人会」<br />
+「オールドレンズ沼の水先案内人・謎のカメラ好き シンゴさん」と<br />
+「WoodStreamのデジタル生活でお馴染み、絶賛カメラ練習中の木澤さん」<br />
+そして、中学時代は光画部だったコーヒーの三人でお送りします。<br />
+私たちプロカメラマンでも何でも無いので勝手な思い込みなどを織り交ぜながらの雑談構成です。<br />
+予めご了承の上お楽しみください。</p>
+<p>収録マラソン最終日、カメラ三人会は長時間になった為に3部構成でお送りします。<br />
+第二部の今回は最近撮影技術の向上に取り組んでいる木澤さんに聞く、撮影技術向上のポイントについて。</p>
+<p><span id="more-1391"></span><br />
+<br />
+1）まずは「オート」モードをやめよう。<br />
+とりあえず、絞り優先かマニュアルを使ってみる。</p>
+<p>2）ボケ味を楽しんでみよう。<br />
+絞りを小さい値になるように調整してみる。<br />
+望遠レンズを使って撮ってみる。</p>
+<div id="attachment_1299" style="width: 235px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-kizawa-boke01.jpg" data-rel="lightbox-image-0" data-imagelightbox="0" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1299" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-kizawa-boke01-225x300.jpg" alt="" width="225" height="300" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-kizawa-boke01-225x300.jpg 225w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-kizawa-boke01-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" /></a><p class="wp-caption-text">望遠レンズを使う事でもボケ味をコントロール出来る。（撮影：木澤）</p></div>
+<p>手前の風景（前景）を入れてボケ味を強調してみよう。</p>
+<div id="attachment_1298" style="width: 310px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-shingo-boke01.jpg" data-rel="lightbox-image-1" data-imagelightbox="1" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1298" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-shingo-boke01-300x200.jpg" alt="" width="300" height="200" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-shingo-boke01-300x200.jpg 300w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-shingo-boke01-768x512.jpg 768w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-shingo-boke01-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">前景を入れて遠くにフォーカスを合わせた例（撮影：シンゴ）</p></div>
+<p>望遠レンズの「圧縮効果」も感じてみよう。</p>
+<div id="attachment_1300" style="width: 208px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-25eebeb16c2d46e313b81146cace719b_l.jpg" data-rel="lightbox-image-2" data-imagelightbox="2" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1300" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-25eebeb16c2d46e313b81146cace719b_l-198x300.jpg" alt="" width="198" height="300" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-25eebeb16c2d46e313b81146cace719b_l-198x300.jpg 198w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-25eebeb16c2d46e313b81146cace719b_l.jpg 677w" sizes="(max-width: 198px) 100vw, 198px" /></a><p class="wp-caption-text">望遠レンズを使うと奥にある風景が手前に寄せられたように映る「圧縮効果」も楽しめます。（撮影：コーヒー）</p></div>
+<p>圧縮効果の作例2</p>
+<div id="attachment_1302" style="width: 310px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-Honeyview_DSC04840.jpg" data-rel="lightbox-image-3" data-imagelightbox="3" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1302" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-Honeyview_DSC04840-300x200.jpg" alt="" width="300" height="200" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-Honeyview_DSC04840-300x200.jpg 300w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-Honeyview_DSC04840-768x512.jpg 768w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-Honeyview_DSC04840-1024x683.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">遠くにある筈の風景が大きく見えます。（撮影：シンゴ）</p></div>
+<p>広角と望遠での圧縮効果の比較（リスナー：fuka82さん撮影）<br />
+真ん中当たりに移っている白い丸い建造物を比較すると、圧縮効果による写り方の違いが確認出来ます。</p>
+<div id="attachment_1303" style="width: 310px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-MG_7645.jpg" data-rel="lightbox-image-4" data-imagelightbox="4" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1303" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-MG_7645-300x200.jpg" alt="" width="300" height="200" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-MG_7645-300x200.jpg 300w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-MG_7645-768x512.jpg 768w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-MG_7645-1024x682.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">広角レンズだと遠くに白い建造物が小さく写っている。（撮影：リスナーfuka82さん）</p></div>
+<div id="attachment_1304" style="width: 310px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-MG_7676.jpg" data-rel="lightbox-image-5" data-imagelightbox="5" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1304" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-MG_7676-300x200.jpg" alt="" width="300" height="200" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-MG_7676-300x200.jpg 300w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-MG_7676-768x512.jpg 768w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-MG_7676-1024x682.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">おおよそ同じ位置で撮影している筈なのに、遠くの白い建造物は大きく見える。<br />旗の間隔も狭く感じる。（撮影：リスナーfuka82さん）</p></div>
+<p>3）夜景を撮影してみよう。<br />
+ポイント1　三脚を使いしっかりとカメラを固定する。<br />
+ポイント2　レリーズやセルフタイマー、アプリからコントロールを使い、振動を最小限にする。<br />
+ポイント3　ISO感度は200程度に下げ、シャッタースピードを遅くして撮影する。<br />
+ポイント4　ホワイトバランスを変えて雰囲気の違いを確認する。</p>
+<div id="attachment_1305" style="width: 310px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-bc9420fdccf29c1e.jpg" data-rel="lightbox-image-6" data-imagelightbox="6" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1305" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-bc9420fdccf29c1e-300x225.jpg" alt="" width="300" height="225" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-bc9420fdccf29c1e-300x225.jpg 300w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-bc9420fdccf29c1e-768x576.jpg 768w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-bc9420fdccf29c1e-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">しっかり固定して、シャッターボタンを押す振動等も排除して撮影された夜景。（撮影：木澤）</p></div>
+<p>ホワイトバランスの違いの比較</p>
+<div id="attachment_1306" style="width: 310px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-WB.jpg" data-rel="lightbox-image-7" data-imagelightbox="7" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1306" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-WB-300x225.jpg" alt="" width="300" height="225" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-WB-300x225.jpg 300w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-WB-768x576.jpg 768w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-WB-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">実際の写真に近い雰囲気に合わせたホワイトバランス。（撮影：木澤）</p></div>
+<div id="attachment_1307" style="width: 310px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-WB-1.jpg" data-rel="lightbox-image-8" data-imagelightbox="8" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1307" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-WB-1-300x225.jpg" alt="" width="300" height="225" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-WB-1-300x225.jpg 300w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-WB-1-768x576.jpg 768w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-WB-1-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">全く同じ撮影条件でホワイトバランスだけを変更。<br />独特な雰囲気のある写真に（撮影：木澤）</p></div>
+<p>比較明合成（ライブコンポジット）の作例</p>
+<div id="attachment_1310" style="width: 310px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-LIVE_COMPOSITE.jpg" data-rel="lightbox-image-9" data-imagelightbox="9" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1310" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-LIVE_COMPOSITE-300x225.jpg" alt="" width="300" height="225" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-LIVE_COMPOSITE-300x225.jpg 300w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-LIVE_COMPOSITE-768x576.jpg 768w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-LIVE_COMPOSITE-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">ライブコンポジットはOM-D E-M1やE-M5で気軽に楽しめる撮影方法です。（撮影：木澤）</p></div>
+<p>4）航空写真に挑戦してみよう。<br />
+ポイント1　飛行機の離発着は「向かい風」が基本。その時の風向きを知ろう。<br />
+ポイント2　滑走路を把握し、どこの滑走路が多く使われているか知ろう。<br />
+ポイント3　400mm以上の望遠がオススメ。<br />
+ポイント4　ルーク・オザワさんの書籍に全部書いてあります。</p>
+<div id="attachment_1311" style="width: 310px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-aogumi01.jpg" data-rel="lightbox-image-10" data-imagelightbox="10" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1311" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-aogumi01-300x225.jpg" alt="" width="300" height="225" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-aogumi01-300x225.jpg 300w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-aogumi01-768x576.jpg 768w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-aogumi01.jpg 847w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">風に向かい飛び立つ青組の勇姿。<br />主翼の湾曲が美しい。（撮影：木澤）</p></div>
+<div id="attachment_1312" style="width: 310px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-akagumi.jpg" data-rel="lightbox-image-11" data-imagelightbox="11" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1312" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-akagumi-300x225.jpg" alt="" width="300" height="225" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-akagumi-300x225.jpg 300w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-akagumi-768x576.jpg 768w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-akagumi-1024x768.jpg 1024w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-akagumi.jpg 1397w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">同じような撮影条件での紅組の勇姿。（撮影：木澤）</p></div>
+<p>望遠レンズの圧縮効果をによりスカイツリーが引き寄せられる。</p>
+<div id="attachment_1313" style="width: 310px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-150mm.jpg" data-rel="lightbox-image-12" data-imagelightbox="12" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1313" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-150mm-300x225.jpg" alt="" width="300" height="225" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-150mm-300x225.jpg 300w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-150mm-768x576.jpg 768w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-150mm-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">羽田空港らしい特徴のある風景（撮影：木澤）</p></div>
+<div id="attachment_1314" style="width: 310px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-210mm.jpg" data-rel="lightbox-image-13" data-imagelightbox="13" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1314" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-210mm-300x225.jpg" alt="" width="300" height="225" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-210mm-300x225.jpg 300w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-210mm-768x576.jpg 768w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-210mm-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">スターアライアンスの文字がしっかりと見える航空機と印象的なスカイツリー（撮影：木澤）</p></div>
+<p>5）その他：スポーツ撮影</p>
+<div id="attachment_1315" style="width: 310px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-IMGP6475.jpg" data-rel="lightbox-image-14" data-imagelightbox="14" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1315" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-IMGP6475-300x225.jpg" alt="" width="300" height="225" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-IMGP6475-300x225.jpg 300w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-IMGP6475-768x576.jpg 768w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-IMGP6475-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">撮影するポジションがどれだけ重要かという好例。<br />臨場感のある選手の様子と見守る観客の対比が面白い。<br />望遠で寄ればより迫力のある写真にもなりそうですね。（撮影：リスナーいそっぷさん）</p></div>
+<p>5）その他：OM-D E-M1 MarkⅡのプロキャプチャーモード<br />
+<a href="https://olympus-imaging.jp/product/dslr/em1mk2/feature.html" target="_blank" rel="noopener">OM-D E-M1 MarkⅡのプロキャプチャーモード</a>を使ってみて！</p>
+<p>そのリクエストに応えるコーヒー</p>
+<div id="attachment_1316" style="width: 310px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-0cd320c0afc1e53ea85600b41402bbb5_l.jpg" data-rel="lightbox-image-15" data-imagelightbox="15" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1316" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-0cd320c0afc1e53ea85600b41402bbb5_l-300x225.jpg" alt="" width="300" height="225" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-0cd320c0afc1e53ea85600b41402bbb5_l-300x225.jpg 300w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-0cd320c0afc1e53ea85600b41402bbb5_l-768x576.jpg 768w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-0cd320c0afc1e53ea85600b41402bbb5_l.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">挙手で応じるコーヒー（撮影：コーヒー）</p></div>
+<p>いくらむさんのカメラ購入当初のプロキャプチャーテスト写真</p>
+<div id="attachment_1317" style="width: 310px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-image0.jpg" data-rel="lightbox-image-16" data-imagelightbox="16" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1317" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-image0-300x225.jpg" alt="" width="300" height="225" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-image0-300x225.jpg 300w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-image0-768x576.jpg 768w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-image0-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">ロープから羽ばたくトンボをプロキャプチャーで捕らえたテスト写真（撮影：リスナーいくらむさん）</p></div>
+<p>コーヒー史上改心の食テロ写真</p>
+<div id="attachment_1318" style="width: 310px" class="wp-caption alignnone"><a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-e27499a558ffb4140459e8a9ff0e0f7e_l.jpg" data-rel="lightbox-image-17" data-imagelightbox="17" data-rl_title="" data-rl_caption="" title=""><img class="size-medium wp-image-1318" src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-e27499a558ffb4140459e8a9ff0e0f7e_l-300x200.jpg" alt="" width="300" height="200" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-e27499a558ffb4140459e8a9ff0e0f7e_l-300x200.jpg 300w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-e27499a558ffb4140459e8a9ff0e0f7e_l-768x512.jpg 768w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/11/s-e27499a558ffb4140459e8a9ff0e0f7e_l.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">コーヒー史上最高傑作の一つ（撮影：コーヒー）</p></div>
+<p>木澤さん、コーヒーに聞く「マイクロフォーサーズミラーレス機に乗り換えてどうですか？」</p>
+<p>木澤さんオススメの書籍<br />
+<a href="https://amzn.to/2Pmyz6c" target="_blank" rel="noopener">カメラはじめます!　サンクチュアリ出版</a></p>
+<p><a href="https://amzn.to/2Pq11El" target="_blank" rel="noopener">ルーク・オザワのヒコーキ写真の撮り方 NEW EDITION: 光、空、風景で魅せる! ヒコーキ情景写真の決定版　誠文堂新光社</a></p>
+<p><a href="https://amzn.to/2JTTOpX" target="_blank" rel="noopener">JETLINER V (TIME SPACE ―時空―)　イカロス出版</a><br />
+<br />
+500円／月で電器屋Walkerの活動をご支援頂けませんか？<br />
+・スリッパちゃん<br />
+・シンゴさん<br />
+・スタンレーさん<br />
+・けんさっくすさん<br />
+その他5名、合計8名の方からご支援を頂いております。-2019年1月16日現在</p>
+<p><a href="http://camp-fire.jp/projects/view/85454" rel="noopener" target="_blank">詳細はこちらから</a><br />
+ファンクラブ方式クラウドファンディング「キャンプファイヤー」にて</p>
+<p>&#8212;&#8212;&#8212;&#8211;</p>
+<p># 配信ページ<br />
+[ blog ／ website INST-web ]<br />
+<a href="https://inst-web.com/denkiya_blog/2019/01/24/1391" target="_blank" rel="noopener">カメラ会04「木澤さん撮影塾」</a></p>
+<p>&#8212;&#8212;&#8212;&#8211;</p>
+<p># 関連リンク<br />
+[ iTunes 電器屋Walker ]<br />
+<a href="https://itunes.apple.com/jp/podcast/id317965056" target="_blank" rel="noopener">https://itunes.apple.com/jp/podcast/id317965056</a></p>
+<p>[ Youtube INSTチャンネル ]<br />
+<a href="https://www.youtube.com/c/inst-web/" target="_blank" rel="noopener">https://www.youtube.com/c/inst-web/</a><br />
+Youtube始めました。ご興味があれば是非「チャンネル登録」をお願いします！　Twitterのハッシュタグは「<a href="https://twitter.com/hashtag/INSTチャンネル" target="_blank" rel="noopener">#INSTチャンネル</a>」<br />
+[ twitter コヒ蔵 ]<br />
+<a href="http://twitter.com/_Coffee__" target="_blank" rel="noopener">@_Coffee__</a><br />
+[ twitter タイジ ]<br />
+<a href="http://twitter.com/_Taiji_" target="_blank" rel="noopener">@_Taiji_</a></p>
+]]></content:encoded>
+	<enclosure url="http://inst-data.com/denkiya_blog/pod_mp3/denki-20190124-SanNin04-knowhow.mp3" length="30914384" type="audio/mpeg" />
+		<itunes:subtitle>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「 #電器屋Walker 」をつけてツ […]</itunes:subtitle>
+		<itunes:summary>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「 #電器屋Walker 」をつけてツ […]</itunes:summary>
+		<itunes:author>電器屋Walker</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>42:56</itunes:duration>
+	</item>
+		<item>
+		<title>カメラ会03「オールド＆ニュー、レンズ談義」</title>
+		<link>https://inst-web.com/denkiya_blog/2019/01/16/1381</link>
+		<pubDate>Wed, 16 Jan 2019 12:30:20 +0000</pubDate>
+		<dc:creator><![CDATA[コヒ蔵]]></dc:creator>
+				<category><![CDATA[Coffee]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[カメラ三人会]]></category>
+		<category><![CDATA[シンゴさん]]></category>
+		<category><![CDATA[木澤さん]]></category>
+
+		<guid isPermaLink="false">https://inst-web.com/denkiya_blog/?p=1381</guid>
+		<description><![CDATA[電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「 #電器屋Walker 」をつけてツ [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。<br />
+Twitterでの番組内容に関する感想はハッシュタグ「 <a href="https://twitter.com/hashtag/電器屋Walker" target="_blank" rel="noopener">#電器屋Walker</a> 」をつけてツイートお願いします。<br />
+電器屋Walker／WoodStreamのデジタル生活 共同リスナーコミュニティ出来ました。<br />
+<a href="https://discord.gg/kxfscjc" target="_blank" rel="noopener">Discord 共同コミュニティーへ</a><br />
+Discordというチャットアプリを利用した、ブラウザ、スマホ、パソコンから、どこからでも気軽に参加出来るコミュニティです。<br />
+運営方針はまだ定まっていませんが、パーソナリティとリスナーが同じ目線で交流できる場所なので、是非ご参加下さい。</p>
+<p>&#8212;&#8212;&#8212;&#8211;</p>
+<p>カメラ好きが集まって雑談する「カメラ 三人会」<br />
+「オールドレンズ沼の水先案内人・謎のカメラ好き シンゴさん」と<br />
+「WoodStreamのデジタル生活でお馴染み、絶賛カメラ練習中の木澤さん」<br />
+そして、中学時代は光画部だったコーヒーの三人でお送りします。<br />
+私たちプロカメラマンでも何でも無いので勝手な思い込みなどを織り交ぜながらの雑談構成です。<br />
+予めご了承の上お楽しみください。</p>
+<p>収録マラソン最終日、カメラ三人会は長時間になった為に3部構成でお送りします。<br />
+第一部の今回はレンズについて。<br />
+※収録マラソン5日目／5日 7本目／8本（収録日：2018年11月10日）<br />
+<span id="more-1381"></span></p>
+<p><a href="https://www.sigma-global.com/jp/lenses/cas/service/mcs/" rel="noopener" target="_blank">SIGMAが提供するマウント交換サービス</a></p>
+<p>コーヒーのAmazon欲しい物リストに入っているレンズ<br />
+<a href="https://www.sigma-global.com/jp/lenses/cas/product/art/a_19_28/" rel="noopener" target="_blank">SIGMA artライン　19mm F2.8 DN</a></p>
+<p>リスナー「fuka82」さんが狙っているレンズ（APS-C)<br />
+<a href="https://www.sigma-global.com/jp/lenses/others/wide/8_16_45_56/" rel="noopener" target="_blank">8-16mm F4.5-5.6 DC HSM</a></p>
+<p>500円／月で電器屋Walkerの活動をご支援頂けませんか？<br />
+・スリッパちゃん<br />
+・シンゴさん<br />
+・スタンレーさん<br />
+・けんさっくすさん<br />
+その他5名、合計8名の方からご支援を頂いております。-2019年1月16日現在</p>
+<p><a href="http://camp-fire.jp/projects/view/85454" rel="noopener" target="_blank">詳細はこちらから</a><br />
+ファンクラブ方式クラウドファンディング「キャンプファイヤー」にて</p>
+<p># 関連リンク<br />
+[ iTunes 電器屋Walker ]<br />
+<a href="https://itunes.apple.com/jp/podcast/id317965056" target="_blank" rel="noopener">https://itunes.apple.com/jp/podcast/id317965056</a></p>
+<p>[ Youtube INSTチャンネル ]<br />
+<a href="https://www.youtube.com/c/inst-web/" target="_blank" rel="noopener">https://www.youtube.com/c/inst-web/</a><br />
+Youtube始めました。ご興味があれば是非「チャンネル登録」をお願いします！　Twitterのハッシュタグは「<a href="https://twitter.com/hashtag/INSTチャンネル" target="_blank" rel="noopener">#INSTチャンネル</a>」<br />
+[ twitter コヒ蔵 ]<br />
+<a href="http://twitter.com/_Coffee__" target="_blank" rel="noopener">@_Coffee__</a><br />
+[ twitter タイジ ]<br />
+<a href="http://twitter.com/_Taiji_" target="_blank" rel="noopener">@_Taiji_</a></p>
+]]></content:encoded>
+	<enclosure url="http://inst-data.com/denkiya_blog/pod_mp3/denki-20190116-SanNin03-lens.mp3" length="25163009" type="audio/mpeg" />
+		<itunes:subtitle>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「 #電器屋Walker 」をつけてツ […]</itunes:subtitle>
+		<itunes:summary>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「 #電器屋Walker 」をつけてツ […]</itunes:summary>
+		<itunes:author>電器屋Walker</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>34:57</itunes:duration>
+	</item>
+		<item>
+		<title>#046「ポテンシャル高過ぎ、SynologyのNAS」</title>
+		<link>https://inst-web.com/denkiya_blog/2018/12/29/1369</link>
+		<pubDate>Sat, 29 Dec 2018 13:34:56 +0000</pubDate>
+		<dc:creator><![CDATA[コヒ蔵]]></dc:creator>
+				<category><![CDATA[Coffee]]></category>
+		<category><![CDATA[Lite]]></category>
+		<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">https://inst-web.com/denkiya_blog/?p=1369</guid>
+		<description><![CDATA[電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「#電器屋Walker」をつけてツイー [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。</p>
+<p>Twitterでの番組内容に関する感想はハッシュタグ「<a href="https://twitter.com/hashtag/電器屋Walker" target="_blank" rel="noopener">#電器屋Walker</a>」をつけてツイートお願いします。</p>
+<p>電器屋Walker／WoodStreamのデジタル生活 共同リスナーコミュニティ出来ました。<br />
+<a href="https://discord.gg/kxfscjc" target="_blank" rel="noopener">Discord 共同コミュニティーへ</a><br />
+Discordというチャットアプリを利用した、ブラウザ、スマホ、パソコンから、どこからでも気軽に参加出来るコミュニティです。<br />
+運営方針はまだ定まっていませんが、パーソナリティとリスナーが同じ目線で交流できる場所なので、是非ご参加下さい。</p>
+<p>&#8212;&#8212;&#8212;&#8211;</p>
+<p>ライト回46回は一人しゃべりのライト回</p>
+<p>バックアップやデータ用のストレージが不足し、パソコン本体とは別の所にHDDを確保したいと考えていたところ、<br />
+Woodstramのデジタル生活・木澤さんやTAC Podcast2・大道さんが相次いで導入したNAS（Network Attached Storage）に興味がでました。<br />
+二人が買ったのは偶然にも「Synology」</p>
+<p>色々調べたらこのSynologyのNASが持つ潜在能力が以上に高く、DS218Jという2ベイモデルを導入する事になりました。</p>
+<p>今回はそのDS218Jを軸に、SynologyのNASの基本機能を語ります。</p>
+<p><a href="https://www.synology.com/ja-jp/products/DS218j" target="_blank" rel="noopener">DiskStation DS218j</a><br />
+<a href="https://www.synology.com/ja-jp/dsm" target="_blank" rel="noopener">DiskStation Manager (DSM) </a><br />
+<a href="http://windows-podcast.com/podcast/archives/1068" target="_blank" rel="noopener">第439回 SynologyのNASとOneDrive連携 (2018/7/1配信)</a><br />
+<a href="https://tennojiac.wordpress.com/2017/10/02/synology-ds216j/" target="_blank" rel="noopener">Synology の NAS を買いました</a></p>
+<p><span id="more-1369"></span>（収録日：2018年12月22日）<br />
+複数のネットワークドライブにワンクリックで接続するvbs<br />
+以下のコードをテキストエディターにコピペして、「任意の名前.vbs」で保存して実行してみてください。<br />
+上手くいったらスタートアップに放り込んでおくと吉。</p>
+<p>特徴<br />
+1）複数のドライブに対応<br />
+2）1行目の　「WScript.sleep 3000」でミリ秒指定で待機時間を設定<br />
+3）ドライブ名が既に存在する場合は問答無用でアンマウントする危険な仕様です（笑）<br />
+4）ログインID、ログインPWが平文で管理される危険な仕様です（涙）<br />
+5）最後の「ネットワークドライブは○○個あります」は確認メッセージなので、<br />
+不要なら削除orコメントアウト<br />
+<a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/12/code.png" data-rel="lightbox-image-0" data-imagelightbox="0" data-rl_title="" data-rl_caption="" title=""><img src="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/12/code-300x199.png" alt="" width="300" height="199" class="alignnone size-medium wp-image-1378" srcset="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/12/code-300x199.png 300w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/12/code-768x509.png 768w, https://inst-web.com/denkiya_blog/wp-content/uploads/2018/12/code.png 783w" sizes="(max-width: 300px) 100vw, 300px" /></a><br />
+&nbsp;<br />
+<a href="https://inst-web.com/denkiya_blog/wp-content/uploads/2018/12/sample.txt">sample（ダウンロードして、中身を修正し、ファイル名をvbsに変更すれば動くと思います。</a></p>
+<p>500円／月で電器屋Walkerの活動をご支援頂けませんか？<br />
+・スリッパちゃん<br />
+・シンゴさん<br />
+・スタンレーさん<br />
+・けんさっくすさん<br />
+その他5名、合計9名の方からご支援を頂いております。-2018年11月16日現在</p>
+<p><a href="http://camp-fire.jp/projects/view/85454" target="_blank" rel="noopener">詳細はこちらから</a><br />
+ファンクラブ方式クラウドファンディング「キャンプファイヤー」にて</p>
+<p>&#8212;&#8211;</p>
+<p># 配信ページ<br />
+[ blog ／ website INST-web ]<br />
+<a href="https://inst-web.com/denkiya_blog/2018/12/29/1369" target="_blank" rel="noopener">#046「ポテンシャル高過ぎ、SynologyのNAS」</a><br />
+[ iTunes 電器屋Walker ]<br />
+<a href="https://itunes.apple.com/jp/podcast/id317965056" target="_blank" rel="noopener">https://itunes.apple.com/jp/podcast/id317965056</a></p>
+<p>[ Youtube INSTチャンネル ]<br />
+<a href="https://www.youtube.com/c/inst-web/" target="_blank" rel="noopener">https://www.youtube.com/c/inst-web/</a><br />
+Youtube始めました。ご興味があれば是非「チャンネル登録」をお願いします！　twitterのハッシュタグは「<a href="https://twitter.com/hashtag/INSTチャンネル" target="_blank" rel="noopener">#INSTチャンネル</a>」<br />
+[ twitter コヒ蔵 ]<br />
+<a href="http://twitter.com/_Coffee__" target="_blank" rel="noopener">@_Coffee__</a><br />
+[ twitter タイジ ]<br />
+<a href="http://twitter.com/_Taiji_" target="_blank" rel="noopener">@_Taiji_</a></p>
+<p>ZOOM F8n &#8211; <a href="https://www.zoom.co.jp/ja/products/field-video-recording/field-recording/f8n-multitrack-field-recorder">ZOOM 公式サイト</a><br />
+ZOOM H6 &#8211; <a href="http://amzn.to/2x8Fbby" target="_blank" rel="noopener">http://amzn.to/2x8Fbby</a><br />
+ZOOM F1-LP &#8211; <a href="http://amzn.to/2sP3oFH" target="_blank" rel="noopener">http://amzn.to/2sP3oFH</a><br />
+ZOOM UAC-2 &#8211; <a href="http://amzn.to/2mwMKnE" target="_blank" rel="noopener">http://amzn.to/2mwMKnE</a></p>
+<p>Mackie 802VLZ4 &#8211; <a href="http://amzn.to/2r3a798" target="_blank" rel="noopener">http://amzn.to/2r3a798</a><br />
+Mackie CR3 &#8211; <a href="http://amzn.to/2r3jwNT" target="_blank" rel="noopener">http://amzn.to/2r3jwNT</a><br />
+Mackie MP-240 &#8211; <a href="https://amzn.to/2tR3kU2" target="_blank" rel="noopener">https://amzn.to/2tR3kU2</a></p>
+<p>SHURE SM10A-CN &#8211; <a href="http://amzn.to/2aMK2bQ" target="_blank" rel="noopener">http://amzn.to/2aMK2bQ</a><br />
+Audix OM5 &#8211; <a href="http://amzn.to/29w4rxd" target="_blank" rel="noopener">http://amzn.to/29w4rxd</a></p>
+<p>OLYMPUS OM-D E-M1 Mark2 &#8211; <a href="https://amzn.to/2CLn3ur" target="_blank" rel="noopener">https://amzn.to/2CLn3ur</a><br />
+GoPro Hero 5 &#8211; <a href="http://amzn.to/2hAQj8V" target="_blank" rel="noopener">http://amzn.to/2hAQj8V</a><br />
+SONY HDR-CX675 &#8211; <a href="http://amzn.to/2aTpzCn" target="_blank" rel="noopener">http://amzn.to/2aTpzCn</a></p>
+]]></content:encoded>
+	<enclosure url="http://inst-data.com/denkiya_blog/pod_mp3/denki-20181229-Lite046-Synology.mp3" length="34005885" type="audio/mpeg" />
+		<itunes:subtitle>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「#電器屋Walker」をつけてツイー […]</itunes:subtitle>
+		<itunes:summary>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「#電器屋Walker」をつけてツイー […]</itunes:summary>
+		<itunes:author>電器屋Walker</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>47:14</itunes:duration>
+	</item>
+		<item>
+		<title>#045「Easeusの4製品でまさかに備える」</title>
+		<link>https://inst-web.com/denkiya_blog/2018/12/24/1365</link>
+		<pubDate>Mon, 24 Dec 2018 13:46:11 +0000</pubDate>
+		<dc:creator><![CDATA[コヒ蔵]]></dc:creator>
+				<category><![CDATA[Coffee]]></category>
+		<category><![CDATA[Lite]]></category>
+		<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">https://inst-web.com/denkiya_blog/?p=1365</guid>
+		<description><![CDATA[電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「#電器屋Walker」をつけてツイー [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。</p>
+<p>Twitterでの番組内容に関する感想はハッシュタグ「<a href="https://twitter.com/hashtag/電器屋Walker" target="_blank" rel="noopener">#電器屋Walker</a>」をつけてツイートお願いします。</p>
+<p>電器屋Walker／WoodStreamのデジタル生活 共同リスナーコミュニティ出来ました。<br />
+<a href="https://discord.gg/kxfscjc" target="_blank" rel="noopener">Discord 共同コミュニティーへ</a><br />
+Discordというチャットアプリを利用した、ブラウザ、スマホ、パソコンから、どこからでも気軽に参加出来るコミュニティです。<br />
+運営方針はまだ定まっていませんが、パーソナリティとリスナーが同じ目線で交流できる場所なので、是非ご参加下さい。</p>
+<p>&#8212;&#8212;&#8212;&#8211;</p>
+<p>ライト回45回は一人しゃべりのライト回</p>
+<p>皆さん、SSDの入れ替えやバックアップってどうされていますか？ある日突然パソコンが不調になったら？<br />
+そんな時に備えるバックアップや復元についてお話ししました。</p>
+<p>今回は特に定番ブランド「Easeus（イーザス）」の無料でも使える便利なユーティリティー系ソフトを徹底解説。<br />
+主力4製品の使い所や気になるポイントをお伝えします。</p>
+<p><a href="https://jp.easeus.com/backup-software/home-edition.html" rel="noopener" target="_blank">EaseUS Todo Backup Home</a><br />
+<a href="https://jp.easeus.com/partition-manager-software/professional.html" rel="noopener" target="_blank">EaseUS Partition Master Professional</a><br />
+<a href="https://jp.easeus.com/data-recovery-software/drw-pro.html" rel="noopener" target="_blank">EaseUS Data Recovery Wizard Professional</a><br />
+<a href="https://jp.easeus.com/file-sync/" rel="noopener" target="_blank">EverySync</a></p>
+<p><span id="more-1365"></span><br />
+※収録マラソン4日目／5日 6本目／8本（収録日：2018年11月9日）</p>
+<p>500円／月で電器屋Walkerの活動をご支援頂けませんか？<br />
+・スリッパちゃん<br />
+・シンゴさん<br />
+・スタンレーさん<br />
+・けんさっくすさん<br />
+その他5名、合計9名の方からご支援を頂いております。-2018年11月16日現在</p>
+<p><a href="http://camp-fire.jp/projects/view/85454" rel="noopener" target="_blank">詳細はこちらから</a><br />
+ファンクラブ方式クラウドファンディング「キャンプファイヤー」にて</p>
+<p>&#8212;&#8211;</p>
+<p># 配信ページ<br />
+[ blog ／ website INST-web ]<br />
+<a href="https://inst-web.com/denkiya_blog/2018/12/24/1365" target="_blank" rel="noopener">#045「Easeusの4製品でまさかに備える」</a><br />
+[ iTunes 電器屋Walker ]<br />
+<a href="https://itunes.apple.com/jp/podcast/id317965056" target="_blank" rel="noopener">https://itunes.apple.com/jp/podcast/id317965056</a></p>
+<p>[ Youtube INSTチャンネル ]<br />
+<a href="https://www.youtube.com/c/inst-web/" target="_blank" rel="noopener">https://www.youtube.com/c/inst-web/</a><br />
+Youtube始めました。ご興味があれば是非「チャンネル登録」をお願いします！　twitterのハッシュタグは「<a href="https://twitter.com/hashtag/INSTチャンネル" target="_blank" rel="noopener">#INSTチャンネル</a>」<br />
+[ twitter コヒ蔵 ]<br />
+<a href="http://twitter.com/_Coffee__" target="_blank" rel="noopener">@_Coffee__</a><br />
+[ twitter タイジ ]<br />
+<a href="http://twitter.com/_Taiji_" target="_blank" rel="noopener">@_Taiji_</a></p>
+<p>ZOOM F8n &#8211; <a href="https://www.zoom.co.jp/ja/products/field-video-recording/field-recording/f8n-multitrack-field-recorder">ZOOM 公式サイト</a><br />
+ZOOM H6 &#8211; <a href="http://amzn.to/2x8Fbby" rel="noopener" target="_blank">http://amzn.to/2x8Fbby</a><br />
+ZOOM F1-LP &#8211; <a href="http://amzn.to/2sP3oFH" rel="noopener" target="_blank">http://amzn.to/2sP3oFH</a><br />
+ZOOM UAC-2 &#8211; <a href="http://amzn.to/2mwMKnE" rel="noopener" target="_blank">http://amzn.to/2mwMKnE</a></p>
+<p>Mackie 802VLZ4 &#8211; <a href="http://amzn.to/2r3a798" rel="noopener" target="_blank">http://amzn.to/2r3a798</a><br />
+Mackie CR3 &#8211; <a href="http://amzn.to/2r3jwNT" rel="noopener" target="_blank">http://amzn.to/2r3jwNT</a><br />
+Mackie MP-240 &#8211; <a href="https://amzn.to/2tR3kU2" rel="noopener" target="_blank">https://amzn.to/2tR3kU2</a></p>
+<p>SHURE SM10A-CN &#8211; <a href="http://amzn.to/2aMK2bQ" rel="noopener" target="_blank">http://amzn.to/2aMK2bQ</a><br />
+Audix OM5 &#8211; <a href="http://amzn.to/29w4rxd" rel="noopener" target="_blank">http://amzn.to/29w4rxd</a></p>
+<p>OLYMPUS OM-D E-M1 Mark2 &#8211; <a href="https://amzn.to/2CLn3ur" rel="noopener" target="_blank">https://amzn.to/2CLn3ur</a><br />
+GoPro Hero 5 &#8211; <a href="http://amzn.to/2hAQj8V" rel="noopener" target="_blank">http://amzn.to/2hAQj8V</a><br />
+SONY HDR-CX675 &#8211; <a href="http://amzn.to/2aTpzCn" rel="noopener" target="_blank">http://amzn.to/2aTpzCn</a></p>
+]]></content:encoded>
+	<enclosure url="http://inst-data.com/denkiya_blog/pod_mp3/denki-20181224-Lite045-Easeus.mp3" length="27739312" type="audio/mpeg" />
+		<itunes:subtitle>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「#電器屋Walker」をつけてツイー […]</itunes:subtitle>
+		<itunes:summary>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「#電器屋Walker」をつけてツイー […]</itunes:summary>
+		<itunes:author>電器屋Walker</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>38:32</itunes:duration>
+	</item>
+		<item>
+		<title>#044「Log1103 ヒトサンとDiscord談義」</title>
+		<link>https://inst-web.com/denkiya_blog/2018/12/21/1360</link>
+		<pubDate>Fri, 21 Dec 2018 12:41:05 +0000</pubDate>
+		<dc:creator><![CDATA[コヒ蔵]]></dc:creator>
+				<category><![CDATA[Coffee]]></category>
+		<category><![CDATA[Lite]]></category>
+		<category><![CDATA[Log1103さん]]></category>
+		<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">https://inst-web.com/denkiya_blog/?p=1360</guid>
+		<description><![CDATA[電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「#電器屋Walker」をつけてツイー [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。</p>
+<p>Twitterでの番組内容に関する感想はハッシュタグ「<a href="https://twitter.com/hashtag/電器屋Walker" target="_blank" rel="noopener">#電器屋Walker</a>」をつけてツイートお願いします。</p>
+<p>電器屋Walker／WoodStreamのデジタル生活 共同リスナーコミュニティ出来ました。<br />
+<a href="https://discord.gg/kxfscjc" target="_blank" rel="noopener">Discord 共同コミュニティーへ</a><br />
+Discordというチャットアプリを利用した、ブラウザ、スマホ、パソコンから、どこからでも気軽に参加出来るコミュニティです。<br />
+運営方針はまだ定まっていませんが、パーソナリティとリスナーが同じ目線で交流できる場所なので、是非ご参加下さい。</p>
+<p>&#8212;&#8212;&#8212;&#8211;</p>
+<p>ライト回44回は前回に引き続きゲスト回<br />
+平日配信のポッドキャスト「Log1103」から1103（ヒトサン）さんをゲストにお招きしてチャットサーバー「Discord」についてのお話。</p>
+<p>※ヒトサンさんの録音レベル調整の関係で、少し聞きづらいところがあります。<br />
+　ご了承ください。</p>
+<p><a href="http://log1103.seesaa.net/" rel="noopener" target="_blank">Log1103 ブログページ</a><br />
+<a href="https://twitter.com/11031104" rel="noopener" target="_blank">Log1103 twitterアカウント</a><br />
+<a href="https://twitter.com/hashtag/Log1103?src=hash" rel="noopener" target="_blank">twitter ハッシュタグLog1103</a></p>
+<p><span id="more-1360"></span><br />
+※収録マラソン3日目／5日 5本目／8本（収録日：2018年11月8日）</p>
+<p>500円／月で電器屋Walkerの活動をご支援頂けませんか？<br />
+・スリッパちゃん<br />
+・シンゴさん<br />
+・スタンレーさん<br />
+・けんさっくすさん<br />
+その他5名、合計9名の方からご支援を頂いております。-2018年11月16日現在</p>
+<p><a href="http://camp-fire.jp/projects/view/85454" rel="noopener" target="_blank">詳細はこちらから</a><br />
+ファンクラブ方式クラウドファンディング「キャンプファイヤー」にて</p>
+<p>&#8212;&#8211;</p>
+<p># 配信ページ<br />
+[ blog ／ website INST-web ]<br />
+<a href="https://inst-web.com/denkiya_blog/2018/12/21/1360" target="_blank" rel="noopener">#044「Log1103 ヒトサンとDiscord談義」</a><br />
+[ iTunes 電器屋Walker ]<br />
+<a href="https://itunes.apple.com/jp/podcast/id317965056" target="_blank" rel="noopener">https://itunes.apple.com/jp/podcast/id317965056</a></p>
+<p>[ Youtube INSTチャンネル ]<br />
+<a href="https://www.youtube.com/c/inst-web/" target="_blank" rel="noopener">https://www.youtube.com/c/inst-web/</a><br />
+Youtube始めました。ご興味があれば是非「チャンネル登録」をお願いします！　twitterのハッシュタグは「<a href="https://twitter.com/hashtag/INSTチャンネル" target="_blank" rel="noopener">#INSTチャンネル</a>」<br />
+[ twitter コヒ蔵 ]<br />
+<a href="http://twitter.com/_Coffee__" target="_blank" rel="noopener">@_Coffee__</a><br />
+[ twitter タイジ ]<br />
+<a href="http://twitter.com/_Taiji_" target="_blank" rel="noopener">@_Taiji_</a></p>
+<p>ZOOM F8n &#8211; <a href="https://www.zoom.co.jp/ja/products/field-video-recording/field-recording/f8n-multitrack-field-recorder">ZOOM 公式サイト</a><br />
+ZOOM H6 &#8211; <a href="http://amzn.to/2x8Fbby" rel="noopener" target="_blank">http://amzn.to/2x8Fbby</a><br />
+ZOOM F1-LP &#8211; <a href="http://amzn.to/2sP3oFH" rel="noopener" target="_blank">http://amzn.to/2sP3oFH</a><br />
+ZOOM UAC-2 &#8211; <a href="http://amzn.to/2mwMKnE" rel="noopener" target="_blank">http://amzn.to/2mwMKnE</a></p>
+<p>Mackie 802VLZ4 &#8211; <a href="http://amzn.to/2r3a798" rel="noopener" target="_blank">http://amzn.to/2r3a798</a><br />
+Mackie CR3 &#8211; <a href="http://amzn.to/2r3jwNT" rel="noopener" target="_blank">http://amzn.to/2r3jwNT</a><br />
+Mackie MP-240 &#8211; <a href="https://amzn.to/2tR3kU2" rel="noopener" target="_blank">https://amzn.to/2tR3kU2</a></p>
+<p>SHURE SM10A-CN &#8211; <a href="http://amzn.to/2aMK2bQ" rel="noopener" target="_blank">http://amzn.to/2aMK2bQ</a><br />
+Audix OM5 &#8211; <a href="http://amzn.to/29w4rxd" rel="noopener" target="_blank">http://amzn.to/29w4rxd</a></p>
+<p>OLYMPUS OM-D E-M1 Mark2 &#8211; <a href="https://amzn.to/2CLn3ur" rel="noopener" target="_blank">https://amzn.to/2CLn3ur</a><br />
+GoPro Hero 5 &#8211; <a href="http://amzn.to/2hAQj8V" rel="noopener" target="_blank">http://amzn.to/2hAQj8V</a><br />
+SONY HDR-CX675 &#8211; <a href="http://amzn.to/2aTpzCn" rel="noopener" target="_blank">http://amzn.to/2aTpzCn</a></p>
+]]></content:encoded>
+	<enclosure url="http://inst-data.com/denkiya_blog/pod_mp3/denki-20181221-Lite044-Discord.mp3" length="17973712" type="audio/mpeg" />
+		<itunes:subtitle>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「#電器屋Walker」をつけてツイー […]</itunes:subtitle>
+		<itunes:summary>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「#電器屋Walker」をつけてツイー […]</itunes:summary>
+		<itunes:author>電器屋Walker</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>24:58</itunes:duration>
+	</item>
+		<item>
+		<title>#043「Log1103 ヒトサンとPodcast談義」</title>
+		<link>https://inst-web.com/denkiya_blog/2018/12/14/1357</link>
+		<pubDate>Fri, 14 Dec 2018 12:52:03 +0000</pubDate>
+		<dc:creator><![CDATA[コヒ蔵]]></dc:creator>
+				<category><![CDATA[Coffee]]></category>
+		<category><![CDATA[Lite]]></category>
+		<category><![CDATA[Log1103さん]]></category>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[ゲスト回]]></category>
+
+		<guid isPermaLink="false">https://inst-web.com/denkiya_blog/?p=1357</guid>
+		<description><![CDATA[電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「#電器屋Walker」をつけてツイー [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。</p>
+<p>Twitterでの番組内容に関する感想はハッシュタグ「<a href="https://twitter.com/hashtag/電器屋Walker" target="_blank" rel="noopener">#電器屋Walker</a>」をつけてツイートお願いします。</p>
+<p>電器屋Walker／WoodStreamのデジタル生活 共同リスナーコミュニティ出来ました。<br />
+<a href="https://discord.gg/kxfscjc" target="_blank" rel="noopener">Discord 共同コミュニティーへ</a><br />
+Discordというチャットアプリを利用した、ブラウザ、スマホ、パソコンから、どこからでも気軽に参加出来るコミュニティです。<br />
+運営方針はまだ定まっていませんが、パーソナリティとリスナーが同じ目線で交流できる場所なので、是非ご参加下さい。</p>
+<p>&#8212;&#8212;&#8212;&#8211;</p>
+<p>ライト回43回はゲスト回<br />
+平日配信のポッドキャスト「Log1103」から1103（ヒトサン）さんをゲストにお招きして<br />
+のんびりポッドキャスト談義。</p>
+<p>※ヒトサンさんの録音レベル調整の関係で、少し聞きづらいところがあります。<br />
+　ご了承ください。</p>
+<p><a href="http://log1103.seesaa.net/" rel="noopener" target="_blank">Log1103 ブログページ</a><br />
+<a href="https://twitter.com/11031104" rel="noopener" target="_blank">Log1103 twitterアカウント</a><br />
+<a href="https://twitter.com/hashtag/Log1103?src=hash" rel="noopener" target="_blank">twitter ハッシュタグLog1103</a></p>
+<p><span id="more-1357"></span><br />
+※収録マラソン3日目／5日 4本目／8本（収録日：2018年11月8日）</p>
+<p>500円／月で電器屋Walkerの活動をご支援頂けませんか？<br />
+・スリッパちゃん<br />
+・シンゴさん<br />
+・スタンレーさん<br />
+・けんさっくすさん<br />
+その他5名、合計9名の方からご支援を頂いております。-2018年11月16日現在</p>
+<p><a href="http://camp-fire.jp/projects/view/85454" rel="noopener" target="_blank">詳細はこちらから</a><br />
+ファンクラブ方式クラウドファンディング「キャンプファイヤー」にて</p>
+<p>&#8212;&#8211;</p>
+<p># 配信ページ<br />
+[ blog ／ website INST-web ]<br />
+<a href="https://inst-web.com/denkiya_blog/2018/12/14/1357" target="_blank" rel="noopener">#043「Log1103 ヒトサンとPodcast談義」</a><br />
+[ iTunes 電器屋Walker ]<br />
+<a href="https://itunes.apple.com/jp/podcast/id317965056" target="_blank" rel="noopener">https://itunes.apple.com/jp/podcast/id317965056</a></p>
+<p>[ Youtube INSTチャンネル ]<br />
+<a href="https://www.youtube.com/c/inst-web/" target="_blank" rel="noopener">https://www.youtube.com/c/inst-web/</a><br />
+Youtube始めました。ご興味があれば是非「チャンネル登録」をお願いします！　twitterのハッシュタグは「<a href="https://twitter.com/hashtag/INSTチャンネル" target="_blank" rel="noopener">#INSTチャンネル</a>」<br />
+[ twitter コヒ蔵 ]<br />
+<a href="http://twitter.com/_Coffee__" target="_blank" rel="noopener">@_Coffee__</a><br />
+[ twitter タイジ ]<br />
+<a href="http://twitter.com/_Taiji_" target="_blank" rel="noopener">@_Taiji_</a></p>
+<p>ZOOM F8n &#8211; <a href="https://www.zoom.co.jp/ja/products/field-video-recording/field-recording/f8n-multitrack-field-recorder">ZOOM 公式サイト</a><br />
+ZOOM H6 &#8211; <a href="http://amzn.to/2x8Fbby" rel="noopener" target="_blank">http://amzn.to/2x8Fbby</a><br />
+ZOOM F1-LP &#8211; <a href="http://amzn.to/2sP3oFH" rel="noopener" target="_blank">http://amzn.to/2sP3oFH</a><br />
+ZOOM UAC-2 &#8211; <a href="http://amzn.to/2mwMKnE" rel="noopener" target="_blank">http://amzn.to/2mwMKnE</a></p>
+<p>Mackie 802VLZ4 &#8211; <a href="http://amzn.to/2r3a798" rel="noopener" target="_blank">http://amzn.to/2r3a798</a><br />
+Mackie CR3 &#8211; <a href="http://amzn.to/2r3jwNT" rel="noopener" target="_blank">http://amzn.to/2r3jwNT</a><br />
+Mackie MP-240 &#8211; <a href="https://amzn.to/2tR3kU2" rel="noopener" target="_blank">https://amzn.to/2tR3kU2</a></p>
+<p>SHURE SM10A-CN &#8211; <a href="http://amzn.to/2aMK2bQ" rel="noopener" target="_blank">http://amzn.to/2aMK2bQ</a><br />
+Audix OM5 &#8211; <a href="http://amzn.to/29w4rxd" rel="noopener" target="_blank">http://amzn.to/29w4rxd</a></p>
+<p>OLYMPUS OM-D E-M1 Mark2 &#8211; <a href="https://amzn.to/2CLn3ur" rel="noopener" target="_blank">https://amzn.to/2CLn3ur</a><br />
+GoPro Hero 5 &#8211; <a href="http://amzn.to/2hAQj8V" rel="noopener" target="_blank">http://amzn.to/2hAQj8V</a><br />
+SONY HDR-CX675 &#8211; <a href="http://amzn.to/2aTpzCn" rel="noopener" target="_blank">http://amzn.to/2aTpzCn</a></p>
+]]></content:encoded>
+	<enclosure url="http://inst-data.com/denkiya_blog/pod_mp3/denki-20181214-Lite043-Log1103.mp3" length="24024628" type="audio/mpeg" />
+		<itunes:subtitle>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「#電器屋Walker」をつけてツイー […]</itunes:subtitle>
+		<itunes:summary>電器屋Walkerは家電やパーソナリティーの興味のある事を勝手な思い込みを織り交ぜながら楽しくお話しするポッドキャスト番組です。 Twitterでの番組内容に関する感想はハッシュタグ「#電器屋Walker」をつけてツイー […]</itunes:summary>
+		<itunes:author>電器屋Walker</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>33:22</itunes:duration>
+	</item>
+	</channel>
+</rss>
