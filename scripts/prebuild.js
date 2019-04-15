@@ -3,7 +3,7 @@ import fileExtension from 'file-extension'
 import fs from 'fs'
 import moment from 'moment'
 import path from 'path'
-import rss from './data/rss.json'
+import rss from '../data/rss.json'
 import sharp from 'sharp'
 import shell from 'shelljs'
 import url from 'url'
@@ -12,10 +12,10 @@ import wgetp from 'node-wget-promise'
 import xml2js from 'xml2js'
 
 const RFC822 = 'ddd, DD MMM YYYY HH:mm:ss ZZ'
-const DOWNLOADS_DIR = 'static/downloads'
-const RSS_DIR       = 'static/downloads/rss'
-const COVER_DIR     = 'static/downloads/cover'
-const BUILD_INFO    = 'static/downloads/build_info.json'
+const DOWNLOADS_DIR = '../static/downloads'
+const RSS_DIR       = '../static/downloads/rss'
+const COVER_DIR     = '../static/downloads/cover'
+const BUILD_INFO    = '../static/downloads/build_info.json'
 
 // Make sure parent dir existence and its clean
 shell.rm('-rf', DOWNLOADS_DIR)
